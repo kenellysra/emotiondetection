@@ -22,4 +22,5 @@ newsemotions <- cbind(newsheadlines[,1:2], emotions)
 colnames(newsemotions)[1:2] <- c("news_headlines", "origin_ID")
 newsemotions <- newsemotions[,c("origin_ID", "news_headlines", "anger", "disgust", "fear", "joy", "sadness", "surprise")]
 
+write.csv(newsemotions, file = "semeval2007data.csv")
 
