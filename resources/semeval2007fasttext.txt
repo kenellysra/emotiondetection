@@ -1,0 +1,1000 @@
+__label__joy Test to predict breast cancer relapse is approved
+__label__sadness Two Hussein allies are hanged, Iraqi official says
+__label__joy Sights and sounds from CES
+__label__joy Schuey sees Ferrari unveil new car
+__label__fear Closings and cancellations top advice on flu outbreak
+__label__sadness Trucks swallowed in subway collapse
+__label__surprise Sarkozy letter surprises French cartoons hearing
+__label__sadness Building a memorial to a son, one child at a time
+__label__surprise Lawmaker seeks iPod ban in crosswalks in New York
+__label__sadness Diabetic waits months for eyeglasses
+__label__surprise Sudan tells United Nations envoy to leave in 72 hours
+__label__surprise 5000 years on but couple still hugging
+__label__surprise Defense to challenge Russert's credibility
+__label__joy Ozzy, a Hero for the hard-rocking masses
+__label__surprise CIA leak trial summary
+__label__joy Dance movie takes over No. 1
+__label__surprise Asian nations urge Myanmar reform
+__label__joy After Iraq trip, Clinton proposes war limits
+__label__sadness 7 dead in apartment building fire
+__label__surprise Male sweat boosts women's hormone levels
+__label__surprise Carphone Warehouse's mixed signals
+__label__surprise Democrats plot Bush troop increase censure
+__label__anger Cisco sues Apple over iPhone name
+__label__disgust BB star Jackson denies Goody comments
+__label__joy Inter Milan set Serie A win record
+__label__surprise US Airways boosts bid for Delta
+__label__joy Press sees hope in Mecca talks
+__label__surprise Bears fan loses bet and changes name
+__label__disgust Global National	Major child porn ring bust
+__label__surprise 'Human hair' clue in hunt for airliner
+__label__joy Johnny Depp to make movie of spy poisoning
+__label__surprise Really?: The claim: the pill can make you put on weight
+__label__joy 5 money makeovers
+__label__fear TBS to pay $2M fine for ad campaign bomb scare
+__label__joy "Stomp the Yard" has winning moves in its weekend debut
+__label__surprise Discovered boys bring shock, joy
+__label__sadness Bernhard set to leave Volkswagen
+__label__fear Pacers' Jackson misses gun hearing
+__label__joy Cases: when the simple solution is the right one
+__label__anger Two Muslim groups sue French newspaper International
+__label__joy Golden Globes on their way
+__label__surprise At New OZZFEST, Freedom Ain't Free
+__label__sadness Federer handed tough Aussie draw
+__label__joy Protesters end strike as Nepal PM concedes demands
+__label__fear Turner pays for Boston "bombing"
+__label__disgust Two detained in body parts mailing
+__label__sadness Essay: about that mean streak of yours: psychiatry can do only so much
+__label__sadness Hussein's niece pleads for father's life
+__label__anger Sarkozy heads for clash in cartoons row
+__label__anger Global web of suspects in child-rape download
+__label__joy Blake defeats Moya to retain title
+__label__fear Storms kill, knock out power, cancel flights
+__label__sadness Aquarium puts ailing beluga whale to sleep
+__label__surprise Microsoft, Sony, we have a problem
+__label__fear A police state? The issues
+__label__surprise Move to ban iPods from crossing the street
+__label__joy India's Taj Mahal gets facelift
+__label__anger Cheney to Congress: Can't run Iraq war by committee
+__label__joy Ganguly handed India squad call-up
+__label__joy Fortune: Looking beyond the iPhone
+__label__surprise Really?: The claim: the back seat of a car is the safest place to sit
+__label__anger Vaccine mandate upsets legislators
+__label__fear News analysis: Iranian boast is put to test
+__label__fear Panel issues bleak report on climate change
+__label__joy Virtual 'American Idol' hits right notes
+__label__sadness Iraq car bombings kill 22 People, wound more than 60
+__label__joy 'Stomp' steps to No. 1 at box office
+__label__joy Google executive acts as goodwill envoy
+__label__fear Filipino woman kidnapped in Nigeria
+__label__joy Seahawks, Bears vie for shot at NFL title
+__label__sadness Brown not buried as estate issues loom
+__label__surprise Will Rob Cohen Direct Third 'Mummy'?
+__label__joy EU will urge China to go green
+__label__surprise 17th-Century Remedy; 21st-Century Potency
+__label__fear Forecasters expect toasty 2007
+__label__joy 'Sunshine' Goydos wins Sony open
+__label__disgust Teacher charged with sex assault
+__label__joy Merck: Gardasil may fight more strains
+__label__fear Mountain glaciers melting faster, United Nations says
+__label__sadness Snow causes airport closures in Britain
+__label__joy Bananaconda inventor is top poet of kids
+__label__anger Shareholders sue Apple
+__label__fear Israelis retaliate after attack by Lebanese Army
+__label__fear Deadly bird flu confirmed in British Turkeys
+__label__surprise Too little sleep may mean too fat kids
+__label__sadness Bathing mom awakes to find baby dead
+__label__joy Visitors to Eiffel Tower climb to record in 2006
+__label__surprise More sleep, healthier slimmer children 
+__label__joy Queen battles Bond for Baftas
+__label__sadness Walters on Trump: 'Poor, pathetic man'
+__label__fear Ice storm smacks roads, power
+__label__fear Iran says it will strike US interests if Attacked
+__label__joy Palestinian factions to resume talks
+__label__surprise Study: men's sweat triggers high sexual arousal in women
+__label__fear Outcry at N Korea 'nuclear test'
+__label__fear Russia plans major military build-up
+__label__surprise Archaeologists find remains of couple locked in a hug
+__label__joy Stenson defends his title at Dubai
+__label__fear Taking the plunge
+__label__joy Updates on world's top stories
+__label__surprise Man rides stationary bike for 85 hours
+__label__fear Ice storm coating Midwest
+__label__disgust A Mistrial for Lieut. Watada
+__label__fear Iran warns will hit back at US if attacked
+__label__joy ASEAN talks end on energy-security
+__label__sadness Iraqi death toll exceeded 34,000 in 2006, United Nations says
+__label__fear Israel intensifies military flights over Lebanon
+__label__joy New gadgets galore at tech show
+__label__sadness Another death at Georgia Aquarium
+__label__fear US to urge Nato Afghan spring offensive
+__label__fear UK letter bombs may be from extremist drivers
+__label__surprise Asia seeks breakthrough on North Korea
+__label__joy Federer overcomes a ragged start
+__label__anger Rowdy fans ejected from the Open
+__label__joy Terai protesters hail 'historic' victory over government
+__label__anger Anger at release of two held over beheading plot
+__label__anger Bush adamant on troops to Iraq
+__label__joy Bebe Neuwirth gets to 'wiggle again'
+__label__joy Beckham to L.A.: For the game not fame
+__label__surprise Sleep more to fight childhood obesity
+__label__sadness Abbas rejects temporary state
+__label__disgust Investigation of child porn site hits 77 nations
+__label__surprise Sleuths close in on Odysseus home
+__label__surprise Variety: Johnny Depp to make movie of spy poisoning
+__label__fear Ice storm cripples central U.S.
+__label__joy Park stars as United maintain lead
+__label__surprise Prehistoric Romeo and Juliet discovered
+__label__joy India's famous landmark gets facelift
+__label__joy Joseph Wambaugh's new start
+__label__sadness Participant in water-drinking contest dies
+__label__surprise Apple drops bombshell with iPhone
+__label__joy Bollywood's 'Brangelina' engaged
+__label__fear Shiite fighters arrested in crackdown, Iraq says
+__label__sadness Rio De Janeiro journal: drawing lines across the sand, between classes
+__label__surprise Models' health guidelines -- will they help?
+__label__joy Stepping back in time at ski resort
+__label__sadness Test cricketer jailed over killing
+__label__joy Walnuts 'combat unhealthy fats'
+__label__surprise Apple to Vista upgraders: 'Wait'
+__label__sadness Injured Sarwan to miss one-dayers
+__label__fear Firms on alert for letter bombs
+__label__surprise Studios sign off on movie downloads
+__label__joy Asif returns with four-wicket haul
+__label__anger Bush authorized Iranians' arrest in Iraq, Rice says
+__label__disgust Porn ring scandal reaches Australia
+__label__sadness Deputy health minister arrested in US-Iraqi raid
+__label__surprise Senator Carl Krueger thinks iPods can kill you
+__label__joy Finally, Senate okays anti-terror bill Manila
+__label__fear Somalia declares state of emergency
+__label__joy Matt shines with his Alpine finish
+__label__sadness BP CEO Browne to step down in June
+__label__surprise An iPhone by any other name? Surely not
+__label__sadness Life in Gaza steadily worsens
+__label__surprise The energy challenge | Exotic visions: how to cool a planet (maybe)
+__label__joy Easy ways to (really) save $400,000
+__label__anger Shareholders sue Apple
+__label__fear Findings: Can humanity survive? Want to bet on it?
+__label__fear Iran steps up production of weapons-grade uranium
+__label__fear Rig-threat cargo ship towed ashore
+__label__sadness Palestinians say clashes hurt their cause
+__label__surprise Male sweat can raise hormones
+__label__surprise Vital Signs: Hazards: Antidepressant linked to fractures in older people
+__label__sadness Peron held over '70s rights abuses
+__label__surprise Space life search turns to TV
+__label__sadness Super Bowl ads of cartoonish violence, perhaps reflecting toll of war
+__label__surprise YouTube told to drop celeb sex video
+__label__joy Beckham and Posh and more athlete-celebrity couples
+__label__fear City sets up ice storm shelters
+__label__sadness Libby prosecutors await judge's rulings
+__label__sadness Review: 'Alpha Dog' misses the point
+__label__anger Republicans plan to block Iraq debate
+__label__surprise Mixed reaction to China's Africa push
+__label__joy Snowed in the Canadian Rockies
+__label__surprise Skip the showers: male sweat turns women on, study says
+__label__joy Gently Weeps' lyrics sheet up for sale
+__label__joy Canete wins inaugural Joburg Open
+__label__joy Rights group halts violent Nepal strikes
+__label__sadness Real suffer Carlos injury setback
+__label__sadness Astronaut may have buckled under stress
+__label__fear Gunmen abduct Filipino woman in Nigeria
+__label__joy NFL team's fan of the year: 'Flag Lady'
+__label__surprise No 10 rejects police state claim
+__label__joy Malaysian AirAsia X to fly in July
+__label__fear 10 kidnapped at Nigeria oil base
+__label__surprise Guy sweat is babe magnet
+__label__joy Township tourism booming in South Africa
+__label__surprise 'Alpha Dog' misses the point
+__label__surprise Iran leader pays Nicaragua a visit
+__label__joy 'Grey's,' 'Pirates' lead People's Choice
+__label__fear Terror network
+__label__sadness Now it's official: Iraq's a mess
+__label__sadness Snow brings travel misery to England
+__label__surprise James Brown's 5-year-old son left out of will
+__label__sadness Two men killed by London tube train
+__label__sadness US millions fail to buy influence in deadly Gaza power play
+__label__joy PLO ministers agreed upon in Mecca
+__label__sadness Squadron apologies over 'friendly-fire' death
+__label__fear New Orleans violence sparks tourism fears
+__label__fear Friendly fire pilot 'experienced'
+__label__surprise SPACE.com: Black hole triplets spotted
+__label__surprise Vaccines: Mandate or choice?
+__label__anger Congolese soldiers riot, loot over pay issue
+__label__joy Commodities lead Europe higher
+__label__surprise Ingredient in male sweat raises women's hormone levels
+__label__joy Goetschl ends Austrian win drought
+__label__fear Doomsday Clock ticking away
+__label__fear Troops massing around Somali town
+__label__surprise Tariq Ramadan has an identity issue
+__label__anger Peretz orders IDF to respond with force to north border attacks
+__label__sadness Trains crash near Thai resort town
+__label__joy Hamas, Fatah return to unity gov't talks in Mecca
+__label__joy Pats' fourth-quarter rally finishes Chargers
+__label__sadness 7 Die As US Helicopter Crashes in Iraq
+__label__sadness Millionaire secret Santa dies
+__label__joy Morrissey may cheer up Eurovision
+__label__joy Christian values guide Dungy and the Colts
+__label__anger Israeli woman's tirade spurs PM outrage
+__label__fear Passing exchange becomes political flashpoint
+__label__sadness Police probe 2 church fires half mile apart
+__label__anger Italy to try US soldier for agent's Iraq death
+__label__joy Depp to star in spy poisoning film
+__label__joy '24's' Jack Bauer returns
+__label__surprise US Airways boosts bid for Delta
+__label__fear Even before its release, world climate report is criticized as too optimistic
+__label__sadness Second hanging also went awry, Iraq tape shows
+__label__joy Howell takes one shot lead in Sony Open
+__label__sadness Psych checks reviewed after astronaut's crack-up
+__label__surprise Pap Test, a mainstay against cervical cancer, may be fading
+__label__joy Martins leads Newcastle fightback
+__label__joy PS3 pricey but impressive
+__label__joy Pluto's revenge: 'Word of the Year' award
+__label__joy European Space Agency
+__label__anger Hackers strike at key Internet servers
+__label__sadness Hussein co-defendants executed
+__label__fear Memo from Frankfurt: Germany relives 1970s terror as 2 seek release from jail
+__label__joy Blissing out in Ojai
+__label__sadness Houston, she's got some problems
+__label__joy Amazon.com has 'best ever' sales
+__label__anger Hackers attack root servers
+__label__surprise Video games can improve your vision
+__label__surprise Internet attacked! (Did anyone notice?)
+__label__surprise In Washington, contractors take on biggest role ever
+__label__sadness Floods force Malaysia evacuations
+__label__surprise On MySpace, girls seek friends, boys flirt
+__label__fear Tests of drug to block H.I.V. infection are halted over safety
+__label__sadness Zoo polar bear to have root canal
+__label__joy Europe take big Royal Trophy lead
+__label__joy Israel to install cameras to show live Mughrabi footage
+__label__sadness 'We lit our last candle yesterday'
+__label__surprise Google buys YouTube for $1.65bn
+__label__joy PSP number one Sony platform in Japan
+__label__joy England include Giles in WC squad
+__label__sadness Beckham 'won't play again for Real'
+__label__sadness Eight years for Damilola killers
+__label__sadness PC World editor slain at California home
+__label__fear Hands on 'Doomsday Clock' move forward
+__label__sadness Zach Braff says he has 'mild depression'
+__label__disgust Investigation of child porn site hits 77 nations USA Today
+__label__fear Science panel calls global warming unequivocal
+__label__joy News Baby pandas! Baby pandas! Baby pandas!
+__label__joy Get ready for the earnings
+__label__sadness Germany agonizes over a brain drain
+__label__joy Iran and Nicaraguan leaders meet
+__label__surprise Secret hotels in Irish countryside
+__label__joy Fine wines in British Columbia
+__label__joy Philippine president welcomes Senate approval of anti-terror bill 
+__label__sadness Small jet crashes on takeoff, killing 2
+__label__fear Bigger, more aggressive rats infesting UK
+__label__joy Travel+Leisure: Next island hot spot: St. Lucia
+__label__joy Real Mallorca rock leaders Sevilla
+__label__fear Iran's boast on uranium enrichment is put to test
+__label__fear Personal health: for teenagers, the car is the danger zone
+__label__joy Bird watchers flock to see rare owl
+__label__sadness Eye on cosmos is lost to short circuit on hubble
+__label__sadness Too young for this: facing cancer under 40
+__label__joy Unilever group names new chairman
+__label__anger Minister slams airlines on carbon
+__label__joy Rare optimism as North Korea talks reach crossroads
+__label__sadness Man beheaded in southern Thailand
+__label__fear China's 'nightmare scenario'
+__label__surprise Annual diving contest in South Korea proves a chilly challenge
+__label__sadness Blair says he regrets delays in British soldier's inquest
+__label__fear Iraqi forces detain official suspected in Shia conspiracy
+__label__joy Wellcome awards anti-fat research
+__label__joy Fingers crossed for North Korea
+__label__joy No intention of war with Iran, US says
+__label__fear What Newsom faces in aftermath of scandal
+__label__joy Maggie Gyllenhaal's Globes babysitter: Mom
+__label__sadness As inflation soars, Zimbabwe economy plunges
+__label__disgust Pledge: I was abused in frat hazing
+__label__fear Experts: Fear likely shackled boy
+__label__fear What's behind the chopper crashes in Iraq
+__label__fear Freed Muslim terror suspect says Britain is "police state"
+__label__sadness Blair apologises over friendly fire inquest
+__label__joy Depp 'to make Litvinenko movie'
+__label__surprise Why gas follows oil up but not down
+__label__joy 'Cravings' still there, sez Tara
+__label__sadness Bill would strip convicted legislators of pensions
+__label__sadness Bears watch as lead slips away
+__label__surprise In clue to addiction, brain injury halts smoking
+__label__joy In rigorous test, talk therapy works for panic disorder
+__label__joy Rice: U.S. won't pull plug on Iraq
+__label__fear On road to Kosovo independence, a warning: go slow
+__label__sadness Mistrial for officer who refused to go to Iraq
+__label__surprise Rebels to join Nepal parliament
+__label__fear EMI warns on profits, boss goes
+__label__sadness Subway collapse caught on camera
+__label__surprise Stinky but true: men's sweat is made for love
+__label__joy POLITICS-US: reprieve for officer who denounced "Immoral War"
+__label__sadness Hunters stalk world's tallest trees
+__label__fear Fuel spill may lead to missing jet
+__label__sadness Sri Lanka floods displace 60,000
+__label__sadness Justin Timberlake, Cameron Diaz announce split
+__label__fear Iran to hit US interests if attacked
+__label__joy Israel says hopes to keep Lebanon border calm
+__label__anger Cisco sues Apple over iPhone name
+__label__sadness Two Palestinians killed near fence
+__label__sadness EarthLink CEO dies at age 49
+__label__sadness A star dies, a family feud is born
+__label__anger Carter was a disaster, said Ford
+__label__joy Super Bowl MVP Manning insists he's one of the guys
+__label__fear Personal health: the importance of knowing what the doctor is talking about
+__label__anger Israel's Peretz urges halt to contentious Jerusalem construction
+__label__anger Peter Jackson will never work for me again
+__label__joy U.S. keeps Iran options open
+__label__joy European shares hit fresh highs
+__label__surprise For women, nothing's like the smell of men's sweat
+__label__surprise Looking beyond the iPhone
+__label__fear Freed kidnap suspect: my terror at police raid
+__label__joy Far away, Super Bowl's losers will be champs
+__label__sadness Woman dies after water binge
+__label__joy Mancuso sparks U.S. celebrations
+__label__fear ASEAN urges North Korea resolution
+__label__sadness Late penalty costs Roma the points
+__label__sadness Mistrial declared in teacher-student rape case
+__label__joy 'Bookworm Adventures' wordsmith's joy
+__label__sadness Kylie's love split
+__label__joy iPod good for video games
+__label__joy Review: virtual 'American Idol' hits right notes
+__label__joy Leo battles himself
+__label__anger Attorneys point fingers in fight between Ryan O'Neal and son
+__label__fear John Grisham set for court drama
+__label__surprise Bill Gates and Craig Mundie: vista is Secure, employees are not
+__label__anger Iraqis fault delayed U.S. plan in attack
+__label__fear Boy Scouts blamed for starting wildfire
+__label__fear China urges UN action on N Korea
+__label__fear Scorpion on a plane, a pantful of pain
+__label__surprise Male sweat boosts women's hormone levels
+__label__surprise Mbeki on the big visit from the Chinese
+__label__joy French right nominates Sarkozy
+__label__fear Israeli, Lebanese clash on border
+__label__fear North Korea claims nuclear test
+__label__joy Talks begin on Somalia peacekeepers
+__label__surprise Action games improve eyesight
+__label__surprise A small part of the brain, and its profound effects
+__label__fear IDF shells Lebanese Army positions across northern border
+__label__sadness Thailand: missing 25 years after taking wrong bus
+__label__anger Ballerina sparks anti-fascist row
+__label__joy Internet boom in China is built on virtual fun
+__label__joy Review: PS3 pricey but impressive
+__label__joy Machinery orders drive Asia upward
+__label__disgust 'Lost's' Fox: 'I'm a liar and a cheat'
+__label__fear Russia to strengthen its military muscle
+__label__fear At Libby trial, Russert of NBC gives and gets
+__label__joy North Korea ready to discuss first steps to nuclear resolution
+__label__surprise Victim: Gunman bought drink after shooting
+__label__joy Ferrer victorious in Spanish duel
+__label__fear UK workers on alert for letter bombs
+__label__surprise Did NASA accidentally kill life on Mars?
+__label__joy New vaccine for cervical cancer could prove useful in men, too
+__label__sadness Search on for victims of subway collapse
+__label__sadness Human error caused Helios crash
+__label__fear US to prod NATO allies for more troops to defeat Taliban
+__label__joy Microsoft supports OpenID authentication standard
+__label__sadness No buyer in sight for Napster
+__label__joy Briefly: preloaded iPods, Wal-Mart movies, Apple stores
+__label__sadness China says rich countries should take lead on global warming
+__label__joy North Korea may begin to dismantle nukes
+__label__joy Tracking down hi-tech crime
+__label__joy Barack Obama formally announces bid for president
+__label__fear Kidnappers seize two in Nigeria
+__label__fear Indonesia may sell, not give, bird flu virus to scientists
+__label__sadness Attack video saddens "friendly fire" widow
+__label__joy Europe retain trophy with big win
+__label__joy Cutting edge accessories for digital music players
+__label__fear Ice storm descends on central U.S.
+__label__sadness Snow brings travel misery to England
+__label__sadness Indonesia flood forces 340,000 from homes
+__label__surprise Iraqi health minister seized in raid 
+__label__fear Ice storm brings chaos in U.S.
+__label__joy Stinky flower mystery solved
+__label__anger Congressman rebukes U.S. allies for lack of support in Afghanistan 
+__label__joy Roddick overcomes Federer in final
+__label__joy Prehistoric Romeo and Juliet discovered
+__label__joy Donald and Goydos share Sony lead
+__label__fear U.S. and Iraqis are wrangling over war plans
+__label__sadness Sea search for missing Microsoft scientist
+__label__fear Iran to Hit US Interests if Attacked
+__label__fear Blair: Terror battle will be long
+__label__joy Bear cub returned to the wilderness
+__label__sadness Carrefour sales growth falls short
+__label__surprise Allied with democrats, Lieberman easily aligns with Republicans
+__label__sadness In the Rockies, pines die and bears feel it
+__label__fear Iran to strike US interests if attacked
+__label__disgust Nipple covers, other star secrets
+__label__surprise Apple: no iTunes for you if you have Vista!
+__label__sadness Smokestacks in a white wilderness divide Iceland
+__label__anger That'll cost ya
+__label__fear Botched hangings in Iraq speed sectarianism
+__label__surprise Male sweat raises female hormones
+__label__joy 7 GOP senators to force debate on troops in Iraq
+__label__joy Bangladesh ends curfew amid unrest
+__label__anger Italy's dispute with US over Iraq shooting
+__label__joy Here come the Globes!
+__label__sadness Snow causes transport chaos in Britain
+__label__sadness Snow causes airport closures in Britain
+__label__surprise Second opinion: girl or boy? as fertility technology advances, so does an ethical debate
+__label__fear Heavy snow causes travel chaos and shuts schools
+__label__joy Barbaro's legacy: saving other horses
+__label__joy Luxury digs in South Carolina's Lowcountry
+__label__sadness Dozens killed in Baghdad bombing
+__label__sadness Ice storms kill 21 across nation
+__label__joy De Villiers takes over Dakar lead
+__label__joy Vietnam becomes WTO's 150th member
+__label__joy South African trio share advantage
+__label__fear Observatory: poison begets poison
+__label__joy Action intensity boosts vision
+__label__surprise Why the smell of a man's armpit is a turn-on
+__label__joy Nokia 5300 Xpress Music
+__label__sadness Dell to cut bonuses, trim management
+__label__surprise Second drop in cancer deaths could point to a trend, researchers say
+__label__joy TV game shows go interactive
+__label__joy Boy missing since 2002 found alive
+__label__joy US, North Korea signed nuclear memo
+__label__joy Russia honors Sputnik designer
+__label__fear In Kenya's capital, a sense that danger is ever stronger
+__label__joy Bill, thanks for the RSA memories... and laughs
+__label__sadness Friendly fire pilot 'experienced'
+__label__joy MySpace welcomes French friends
+__label__fear Airlines: UK airport runway unsafe
+__label__fear The amounts you have to pay for a bomb scare
+__label__joy In Egypt, Rice speaks softly
+__label__sadness Weekly Nielsen Yvonne De Carlo, 'Munsters' star, dead
+__label__sadness Senate votes to revoke pensions
+__label__sadness EarthLink CEO dies at age 49
+__label__sadness Software giant SAP misses target
+__label__surprise Vital signs: mental abilities: folic acid may improve thinking skills
+__label__joy De Villiers stretches overall lead
+__label__joy Families celebrate return of sons
+__label__fear China detains 2 after body parts found in mail
+__label__joy North Korea ready to discuss nuke disarmament
+__label__surprise For women, nothing's like the smell of men's sweat
+__label__joy Nadal wants Australian Open crown
+__label__joy Beijing journal: Olympic construction unearths ancient treasure trove
+__label__joy Chinese president arrives in Mozambique, African tour nearly over
+__label__joy Reclusive 'Mockingbird' author attends show
+__label__joy Asia near pact on energy, security
+__label__fear Philippine anti-terror law delayed until June
+__label__anger Ex-suspect slams anti-terror laws
+__label__joy Study detects a gene linked to Alzheimer's
+__label__joy Panda cub makes her debut
+__label__joy Harris haul puts South Africa on top
+__label__joy Weight-loss drug to be sold over the counter
+__label__joy Beckham outlines reasons for move
+__label__surprise Study finds gritty air raises heart disease risk in older women
+__label__anger Venezuela, Iran fight U.S. dominance
+__label__sadness 'Housewives' star Marcia Cross on bed rest
+__label__joy Blog: Here come the Globes!
+__label__anger Greek police hunt embassy attackers
+__label__surprise Apple warns iTunes users to wait on Vista
+__label__fear Tsunami fears ease after quake
+__label__joy China considers Eurobond reserves
+__label__surprise Underarm bowls them over
+__label__sadness At least 130 die as blast levels Baghdad market
+__label__fear New McCain team made attack ads he once faulted
+__label__fear Deaths as bird flu flares in Asia
+__label__joy Hamas, Fatah leaders pledge to meet until they reach agreement
+__label__disgust Officers had 'rapport' with alleged abductor
+__label__sadness No e-Book for Harry Potter VII
+__label__joy Review: Nokia 5300 Xpress Music
+__label__surprise 'Can't do this anymore'? Not Jack
+__label__surprise Black hole triplets spotted
+__label__surprise Israel weighs old city project webcast
+__label__sadness Indonesian bird flu deaths hit 61
+__label__sadness Somali refugees cut off from aid
+__label__joy Microsoft downplays Vista speech-recognition hack
+__label__joy Next island hot spot: St. Lucia
+__label__anger Italy to hold no-show trial of Bronx GI in Iraq slay
+__label__joy Rescued boys parents hail 'miracle'
+__label__disgust Canadians tracked in child porn ring
+__label__surprise Teen hacks Venezuelan government Web sites
+__label__fear Russia plans new ICBMs, nuclear subs
+__label__joy Gere cheers sex workers in AIDS fight
+__label__surprise Study: Male sweat causes female hormones to rise
+__label__sadness Collision on icy road kills 7
+__label__joy Surprise: China cuts price of gas
+__label__joy What the Godfather of Soul meant to me
+__label__joy New Mars orbiter spots Pathfinder landing site
+__label__anger Mass Venezuela opposition rally
+__label__joy Glamour -- and 'Borat' -- at Golden Globes
+__label__fear Terror officials see Al Qaeda chiefs regaining power
+__label__surprise Ivrea journal: In Italian town, a civics lesson from pelting neighbors
+__label__joy Iraqi sunni lands show new oil and gas promise
+__label__joy Princess and heir of Franz Ferdinand fights to repeal a law and gain a castle
+__label__fear A film star in Kampala, conjuring aminos ghost
+__label__fear Militants attack U.S. base in Iraq
+__label__fear North Africa feared as staging ground for terror
+__label__fear Iran says Sunnis, using Pakistan as base, planned fatal bombing
+__label__anger Anglicans rebuke U.S. branch on same-sex unions
+__label__sadness Homemade bombs kill 65 on Indian train
+__label__fear Al Qaeda chiefs are seen to regain power
+__label__anger Chvez threatens to jail violators of price controls
+__label__fear Bush declares Iran's arms role in Iraq is certain
+__label__joy Accord on North Korea is announced
+__label__fear U.S. says powerful Iraqi cleric is living in Iran
+__label__joy Baghdad plan is a success, Iraq prime minister tells Bush
+__label__joy Iraqi sunni lands show new oil and gas promise
+__label__anger Dispute over Iraqi cleric, said to have gone to Iran
+__label__fear Planning seen in Iraqi attacks on U.S. copters
+__label__sadness In the world of life-saving drugs, a growing epidemic of deadly fakes
+__label__surprise Basics: a mammal in winter with a furnace of her own
+__label__surprise Books on science: The problems in modeling nature, with its unruly natural tendencies
+__label__surprise Believing scripture but playing by science's rules
+__label__joy A familiar and prescient voice, brought to life
+__label__surprise Findings : A cool $25 million for a climate backup plan
+__label__joy Call it serendipity: a missing piece of Washington's war tent is found
+__label__surprise Free Will: Now you have it, now you don't
+__label__surprise Archaeologists find signs of early chimps' tool use
+__label__surprise Wizardry at Harvard: physicists move light
+__label__disgust The summit - a slap in the face of the Palestinians
+__label__joy Moscow says Palestine-Israeli contacts key to Mideast peace
+__label__sadness Mideast summit edns with little progress
+__label__fear India decries 'an act of sabotage'
+__label__joy Pakistan-India peace talks planned despite bombings
+__label__fear Czechs, Poles get missile warning
+__label__fear Russia warns US against missile bases in East Europe
+__label__joy Cheney starts visit to Japan, Australia
+__label__joy China: Cheney shores up the trilateral alliance
+__label__fear Iraq insurgents attack US base
+__label__sadness US soldiers die in day of violence
+__label__sadness Iraqi suicide attack kills two US troops as militants fight purge
+__label__fear Iran reneges on nuclear payments to Russia
+__label__sadness Top Colombia official resigns
+__label__sadness Colombia FM resigns after relatives' arrests for militia links
+__label__disgust Foreign minister of Colombia quits in scandal
+__label__sadness New Zealand unlikely to allow crippled Japanese whaler
+__label__sadness Damaged Japanese whaling ship may resume hunting off Antarctica
+__label__disgust Japanese whaling ship won't accept help
+__label__joy Iran top N-envoy heads for Vienna for nuke talks
+__label__sadness Victims of Air India still wait for justice
+__label__disgust Kanishka bombing case: Inquiry judge threatens to quit
+__label__anger Judge threatens to shut down Air-India inquiry
+__label__joy Royal rescues presidential hopes with commanding performance
+__label__joy Royal seeks to revive French bid
+__label__joy Sarkozy comfort zone offers a royal opportunity
+__label__fear Hicks first in line for trial, Bush says
+__label__surprise Australia tells Bush to speed up Guantanamo trial
+__label__fear Howard presses Bush on terror suspect
+__label__fear France ends toxic alert at Canadian embassy in Paris
+__label__fear Paris police investigate package at Canadian embassy
+__label__fear False alarm at Canadian embassy in Paris
+__label__joy Afghan forces retake town that was overrun by Taliban
+__label__fear Taliban seize rural district in southwest as police flee
+__label__sadness Afghan poppy war alienates farmers
+__label__joy Will North Korea honor pledge this time?
+__label__surprise Kim Jong-il bans Japanese cars in North Korea
+__label__anger Iran vs. North Korea: not all enemies are equal
+__label__joy Catholic archbishop outlines Anglican merger hopes
+__label__joy Anglican and Catholic churches could merge
+__label__sadness US helicopter crash kills 8 troops in Afghanistan
+__label__sadness Eight US soldiers killed in Zabul helicopter crash
+__label__joy Arroyo lauds passage of anti-terror bill
+__label__joy House passes anti-terrorism measure Manila
+__label__joy Livingstone's transport empire may extend
+__label__joy London is pace-setter on congestion toll, says mayor
+__label__anger Protest greets congestion charge's westward push
+__label__sadness Thailand attacks kill three, injure 70
+__label__joy Thai Govt moves to smooth over relations with south
+__label__fear Bombings say Muslim rebels won't negotiate
+__label__surprise Roots of autism more complex than thought
+__label__surprise Largest ever autism study identifies two genetic culprits
+__label__joy Canadian breakthrough offers hope on autism
+__label__fear Beware of peanut butter pathogens
+__label__joy Experts offer advice on salmonella
+__label__joy Experts issue new heart disease guidelines for women
+__label__joy For women, aspirin a day could keep stroke away
+__label__fear High cholesterol raises stroke risk healthy women
+__label__fear Cooked chicken breasts join tainted-food recalls
+__label__fear Ready to eat chicken breasts recalled due to suspected listeria
+__label__surprise Fully-cooked chicken strips recalled 
+__label__surprise Committee debates cancer vaccine plan
+__label__joy Stop cancer with a shot
+__label__joy 1 mln birds to be vaccinated from bird flu near Moscow
+__label__fear Thousands tested after Russian H5N1 outbreak
+__label__fear Russian bird flu outbreak is deadly "Asian strain"
+__label__sadness Bernard Matthews to lay off up to 500 workers
+__label__sadness Matthews lays off 130 turkey workers
+__label__fear Reopening bird flu-hitfactory ignores risks - poultryman
+__label__sadness Goodbye to girlhood
+__label__anger Media cited for showing girls as sex objects
+__label__anger Sexualisation 'harms' young girls
+__label__fear A shot in the arm
+__label__fear Thousands line up to get late flu shots
+__label__joy King county offering some free flu vaccines
+__label__joy Bush vows cooperation on health care
+__label__joy Health returns as hot issue in '08 race
+__label__joy Small-business owners find Bush health plan appealing
+__label__fear Pediatricians say more cord blood is needed now
+__label__surprise Whether to save cord blood can be puzzle for parents
+__label__joy Retinal implant helping blind people see again
+__label__surprise Indonesia "will not share" flu samples
+__label__fear Health Canada issues advice on canned tuna
+__label__sadness Cholesterol link in diabetes study
+__label__surprise Pig cells hope for diabetes cure
+__label__surprise Sick hearts switch on a fetal gene
+__label__surprise Foetal mechanism helps heart failure
+__label__fear Planned cesareans not risk-free, group warns
+__label__joy Scientists tout cocoa's health benefits
+__label__joy Feeding your brain: new benefits found in chocolate
+__label__joy Some cocoa may improve brain blood flow
+__label__anger Lawyer for deceased Nazi-era collaborator Papon vows to bury him 
+__label__joy Cocoa could be antidote to age-related diseases, says new study
+__label__surprise China denies reports of North Korean apology
+__label__anger Hungarian opposition calls for vote after violence escalates
+__label__sadness AU regrets Sudan's expulsion of UN envoy 
+__label__fear Bush officials: no big move in Iraq plan 
+__label__surprise Opponent is put on the spot over remarks about Clinton
+__label__joy House ethics panel talks to Hastert aide
+__label__joy BellSouth says profit rises 30% on cingular earnings
+__label__sadness Enron boss gets 24-year sentence
+__label__joy Sony apologizes for battery recall
+__label__joy Google unveils do-it-yourself search engine
+__label__joy Firefox 2.0 hits the Web
+__label__joy Oracle World opens with Dell unveiling AMD-powered computers
+__label__sadness Seahawks' QB Hasselbeck out 2-4 weeks
+__label__joy Marathon winner released from hospital 
+__label__anger Punter charged with stabbing asks to live outside state
+__label__joy Allmendinger joining Toyota team in NASCAR 
+__label__sadness Trying to assess the damage in Cleveland 
+__label__joy Bryant's boot may have salvaged Bucs' season
+__label__joy This week in auto racing October 27 - October 29
+__label__surprise Merriman violation stuns ex-teammate
+__label__anger Bruce revells in upset
+__label__sadness Steelers' Roethlisberger has concussion
+__label__surprise Arthurs upsets Robredo in first round at the St. Petersburg Open
+__label__joy Mbeki: 2010 World Cup Planning on Track
+__label__joy Clinical Everton show Moyes means business
+__label__joy MS Adds Office 2007 to Vista Coupon Program
+__label__surprise One search does not fit all
+__label__surprise Apple's dark secret? The 39% claim
+__label__sadness Bad weather cancels men's downhill
+__label__joy Cool millions for YouTube founders
+__label__joy London market a shopping, dining haven
+__label__joy 'Jackass' star marries childhood friend The secrets people reveal
+__label__joy Audio Slide Show: A love story lasting 61 years
+__label__joy Microsoft to release next generation phone
+__label__sadness Body Shop's Roddick has Hepatitis C
+__label__fear Teen allegedly armed by mom turns self in
+__label__joy Oxfam: action needed for Chad
+__label__sadness Violence continues at disputed holy site
+__label__sadness Storm leaves behind major travel troubles
+__label__sadness 3 U.S. troops killed hunting weapons cache
+__label__joy China's 'Friends' highlights Web freedoms
+__label__joy NATO: Afghanistan peace 'by 2009'
+__label__joy Alaska's northern lights captivate Japanese
+__label__sadness Smith can't be buried until hearing
+__label__joy Spacewalker sets new U.S. record
+__label__surprise Fortune: India the Superpower? Think again
+__label__anger Kerry blasts 'escalation of misguided war'
+__label__surprise Anna Nicole claimant: A prince of a guy?
+__label__joy 'Ronnie' and Eto'o hug and make up
+__label__joy Best of the Chicago Auto Show
+__label__joy 'Grey's,' 'Betty,' 'Scrubs' get boost
+__label__sadness Massive mud traps dozens of families
+__label__surprise Edwards blogger quits, becomes journalistic martyr
+__label__sadness Town packs gym to mourn 10 killed in fire
+__label__joy Spain ahead although Nadal is out
+__label__joy ECB holds rates at 3.5 percent
+__label__fear Iran rejects US claims of supplying weapons in Iraq
+__label__joy Jakarta begins disinfection
+__label__sadness Rowling 'heartbroken,' 'euphoric' at 'Potter's' end
+__label__disgust Apple revs up Mac attacks on Vista
+__label__fear Fear hinders black marrow donation
+__label__anger Texan allegedly joined Somalia rebel plot
+__label__joy U.S. to allow 7,000 Iraqi refugees
+__label__fear Japan: Whaling activists 'terrorists'
+__label__surprise 'Hannibal' bites the big one
+__label__anger Women protest Pakistan demolition
+__label__joy Wii news for gamers
+__label__joy Democrats look beyond symbolic vote on Iraq
+__label__surprise Portugal to vote on abortion laws
+__label__fear Frustration rises as North Korea nuclear talks stall
+__label__surprise Horse teeth give details of ancient big chill
+__label__surprise Scam lures victims with free puppy offer
+__label__joy Two Koreas to resume talks
+__label__joy Mickelson driving force at masters
+__label__joy England opt for Bopara over Loye
+__label__joy Create own 'Thrillville' for a wild ride
+__label__surprise Edwards' campaign blogger quits amid Catholic controversy
+__label__sadness Judge: Preserve Anna Nicole's body
+__label__joy Dolphins, sea lions may report for duty soon
+__label__fear Nasdaq-LSE battle nears deadline
+__label__joy A personal plea for HPV vaccine plan
+__label__joy U.S. opens door for Iraqi refugees
+__label__sadness Swiss plane crashes at Moscow airport
+__label__joy Study: napping might help heart
+__label__joy MySpace sales surging
+__label__sadness Telecoms giant slashes 12,500 jobs
+__label__joy Air France KLM profit rises
+__label__fear Uganda parliament votes to send troops to Somalia
+__label__joy King and queen reign at British film awards
+__label__joy Murphys rule box office with 'Norbit'
+__label__fear Thousands rally in Lebanon
+__label__joy Yahoo's mission quest
+__label__joy Area should get 3-5 inches of snow today
+__label__joy Miss Brazil wins lawsuit competition
+__label__sadness Snow wreaks havoc in East, Midwest
+__label__surprise The secrets people reveal
+__label__surprise Research supports medicinal marijuana
+__label__joy All African amputee football games kick off
+__label__sadness Group: Video shows chopper go down
+__label__joy Sale of Chrysler possible
+__label__sadness Russia condemns terrorist acts on buses outside Beirut
+__label__joy Technology may save India's river dolphins
+__label__joy Airbus A380 superjumbo takes off
+__label__joy Naps are great for chaps
+__label__joy Female astronaut sets record
+__label__surprise Corn stoves popping up in U.S. homes
+__label__sadness Iraq closes borders with Syria and Iran
+__label__sadness The troubling ending of 'The Departed'
+__label__joy Vietnamese bank plans IPO listing
+__label__surprise Toyota's Scion parks in Second Life
+__label__joy Obama will run in 2008
+__label__joy 'Cagney and Lacey' finally coming to DVD
+__label__fear Merkel: Stop Iran
+__label__sadness Salt Lake City mall shooter was teenager
+__label__joy Female astronaut sets record
+__label__joy Oil holds at $58
+__label__joy Obama announces presidential bid
+__label__joy Tell your boss: Naps are good for you
+__label__anger Serbia rejects United Nation's Kosovo plan
+__label__sadness Amish discuss shootings
+__label__surprise Jail me, I ate Ivory Coast chocolate
+__label__fear Can North Korea be trusted?
+__label__sadness Tourism lags in Bush's hometown
+__label__surprise Astronaut's arrest tests NASA's mettle
+__label__joy Man gets second chance at space ride
+__label__surprise Go ahead, take a nap, science says
+__label__joy Weekly Nielsen will 'Lost' find its way back?
+__label__surprise Brith Airways baggage charges cause confusion
+__label__sadness Indonesian with bird flu dies
+__label__joy St. Louis poised for entertainment upswing
+__label__surprise New York City may ban iPods while crossing street
+__label__sadness Boy allegedly told to kill by mom gives up
+__label__joy Gray wolves off endangered list
+__label__joy Vista's hyped security will be tested
+__label__fear UK police slammed over terror raid
+__label__fear Mogadishu residents flee blasts
+__label__sadness Bomb kills 18 on military bus in Iran
+__label__joy 'WarioWare,' Wii make perfect fit
+__label__fear U.S. at odds with cleric's aide
+__label__sadness Desperate Iraqi mother relies on militia for help
+__label__surprise Full details of the EU report on Iran
+__label__joy Singer on Cowell: Glad he was mean
+__label__sadness Jones faces Europe meetings snub
+__label__joy Beckham goal helps Real snatch win
+__label__fear Guinea: Plan offices close as country declares emergency
+__label__joy Japan's economy grows
+__label__joy United Nations peacekeepers raid Haitian slum
+__label__joy Work starts on Arctic seed vault
+__label__joy Social networking goes mobile
+__label__joy Beauticians cut, curl, offer stroke-prevention info
+__label__surprise Siesta cuts risk of heart disease death, study finds
+__label__joy Thomas Cook to merge with MyTravel
+__label__joy Nap your way to a successful career
+__label__sadness Village buried by 100 inches of snow
+__label__joy Oprah announces new book club pick
+__label__joy The science of love ... and lust
+__label__sadness Northeaster cancels flights, shuts schools
+__label__joy Napping may be good for your heart
+__label__sadness Ryan O'Neal injured son's girlfriend
+__label__sadness Chrysler's Valentine's Day massacre
+__label__fear Madrid bombings trial begins
+__label__disgust Fight starts over HPV vaccine
+__label__joy Autos drive European gains
+__label__joy James Brown's partner can get her things
+__label__sadness Auto show canceled
+__label__surprise UK luxury maker Burberry: 'Made in China'?
+__label__joy On-the-job naps might cut heart risk
+__label__joy No. 1 Florida survives Rupp Arena, streak hits 16
+__label__sadness J.K. Rowling marks spot of 'Potter's' end
+__label__joy Gronholm takes a commanding lead
+__label__anger Howard slams Obama on Iraq policy
+__label__sadness Manila hints at ransom approval
+__label__joy Champion Murray too good for Kim
+__label__sadness G7: Yen skates by, yuan singled out
+__label__surprise Gunman 'was Srebrenica survivor'
+__label__joy Cutting through the clutter to get things done
+__label__joy Mother: Lohan is doing 'great' in rehab
+__label__joy Who's going to win at the Grammys?
+__label__surprise Libby defense upsets judge, rests
+__label__sadness Breakup rings find new homes
+__label__joy Gronholm ahead as Solberg crashes
+__label__sadness 'Norbit' a waste of Murphy
+__label__surprise Rocky start for Bangkok airport
+__label__sadness 12 dead in Lebanese minibus bombings
+__label__disgust Sex torture claims hit Russia army
+__label__surprise Mega-marsupials once roamed Australia
+__label__surprise Rupert Murdoch's secret TiVo
+__label__sadness UPDATE 1-Plane crashes at Moscow airport, no passengers
+__label__surprise HPV vaccination stirs heated debate in America
+__label__surprise Court TV: Accused killer tells jury a love story
+__label__surprise Whistle-blowing Web site exposed
+__label__joy Start late, retire rich
+__label__anger Somali PM vows to bring Islamists to justice
+__label__surprise Swingers more common than most think
+__label__sadness Anna Nicole Smith fans mourn in cyberspace
+__label__fear Antibiotic Ketek more dangerous than thought
+__label__joy Time to book your cruise
+__label__sadness 'Blazing Angels' for PS3 fails to soar
+__label__sadness North Korea aid demand stall talks
+__label__sadness Cartoon Network head steps down
+__label__joy Malaysia aggressively wooing tourists
+__label__sadness Anna Nicole Smith's Bahamas home seized
+__label__surprise Andromeda involved in galactic collision
+__label__joy Rwanda mulling 3-kid limit for families
+__label__joy Wilkinson sets record in tame win
+__label__joy Army engineers say dam safe
+__label__fear France: Al Qaeda suspects arrested
+__label__joy Utah gunman survived Srebrenica
+__label__surprise Creating a whole album in a month?
+__label__fear India to test new nuclear missile
+__label__surprise G7 to China: Ease exchange rate grip
+__label__joy Hatton hands back IBF title again
+__label__fear Bernanke: Economy healthy, but...
+__label__joy Mickelson, Sutherland share lead
+__label__joy Napping is good for your heart, study finds
+__label__surprise Princess Masako author: No regrets
+__label__surprise Students use IM-lingo in essays
+__label__joy Malaysia launches tourism campaign
+__label__sadness Study: Africa's Internet gap getting wider
+__label__fear Travel chaos as heavy snow hits UK
+__label__surprise Paula Abdul: 'I have never been drunk'
+__label__fear Salmonella outbreak traced to peanut butter
+__label__fear Putin: U.S. force fostering nuke ambitions
+__label__fear Nuke detectors to ring New York, official says
+__label__sadness Double bus-bombing kills three in Lebanon
+__label__surprise Davydenko out as seeds scattered
+__label__joy Obama: I'm running for president
+__label__joy Paterson boots Scotland to victory
+__label__surprise African-Americans are organ donors these days, but what about bone marrow?
+__label__joy Study: On-the-job naps might help heart
+__label__fear Guinea capital largely calm under curfew, marital law
+__label__surprise Bosses sleeping on idea of letting workers take naps
+__label__disgust Teacher's porn conviction sparks tech debate
+__label__joy Singapore pampers its waterfront promenade
+__label__surprise Rwanda mulls three-child limit
+__label__joy Samsung settles price-fixing lawsuit
+__label__fear Radical cleric al-Sadr in Iran, U.S. insists
+__label__joy Reports: Harvard set to name first female president
+__label__surprise Iraq unveils new security plans
+__label__joy University offers support to New Orleans school
+__label__fear Storm causes slick, icy roads
+__label__sadness South Korea fire kills 10 foreigners
+__label__surprise Prehistoric lovers found locked in eternal embrace
+__label__surprise Charts: Is your city lean or lethargic?
+__label__sadness Peru leader questioned in massacre probe
+__label__joy U.S. commander: Iraq not hopeless
+__label__joy Australian PM stands by Obama attack
+__label__joy Mardi Gras rebound in the offing for New Orleans?
+__label__joy Siestas may cut heart disease risk
+__label__sadness Oregon snorkeler mistaken for rodent, shot in face
+__label__fear Petraeus takes command in Iraq
+__label__sadness 6 dead after Utah Mall shooting rampage
+__label__sadness Sharks kill four people in 'dull' year
+__label__joy Record-shattering day on Wall St.
+__label__sadness Comedian says government silences critics
+__label__joy Rockers big winners at Brit Awards
+__label__sadness Samba school leader killed before Rio carnival
+__label__sadness Taiwan's 'Mr. Clean' indicted, steps down
+__label__anger Woman fights to keep drunken driver in jail
+__label__fear Al Qaeda group calls for attacks on U.S. oil
+__label__sadness Cousin: Gunman was Srebrenica survivor
+__label__joy Turkmenistan votes for president
+__label__surprise Here is some advice to take to heart...
+__label__joy 10 don't-miss tax breaks
+__label__anger Police break up Kosovo protests
+__label__joy Messi makes Barcelona squad return
+__label__sadness Jump reported in accidental drug-overdose deaths
+__label__sadness Catania punished for fan violence
+__label__joy Isinbayeva sets 20th world record
+__label__anger Lawmakers blast FDA drug safety oversight
+__label__joy Regular naps make hearts healthy
+__label__sadness Ice stops trolleys cold
+__label__surprise U.S. gunman 'was Srebrenica survivor'
+__label__disgust Outdated baby food found on shelves
+__label__disgust Tow truck drivers accused of stealing cars
+__label__joy Bush: It's time for Congress to back energy plan
+__label__joy UK soldiers cleared of Iraq abuse
+__label__joy FDA revises label warnings on the antibiotic Ketek
+__label__joy Toshiba Portege R400
+__label__sadness South Africa mourns Adelaide Tambo
+__label__joy Evacuees can return home after plant blast
+__label__sadness Anna Nicole Smith's body lies in legal limbo
+__label__surprise Former teacher poses for Playboy
+__label__anger France rejects Rwandan investigators
+__label__surprise A nap a day may keep the heart doctor away
+__label__joy Higley, Gonzalez lead in Malaysia
+__label__joy Grammys ready to name winners
+__label__anger Pound will not drop Armstrong case
+__label__joy Reunited Police to start world tour in May
+__label__joy Turkmen acting leader sworn in as new president
+__label__joy Allen and Okur get All-Star call
+__label__joy Svindal claims are golden double
+__label__sadness Trolley Square shooting leaves 6 dead, including gunman
+__label__fear Bridge blast stops I-95 traffic
+__label__sadness Mother, daughter stabbed near school
+__label__disgust Excerpt: Politicians and the press
+__label__joy North Korea gets 'money and respect'
+__label__joy Beyonce in a bikini as SI's swimsuit cover model
+__label__surprise Loving with all your ... brain
+__label__surprise Shoplifters' choice: Police or T-shirt of shame
+__label__fear Cuban official: Web a 'wild colt'
+__label__joy Slow 'Music and Lyrics'
+__label__joy Mexican navy helps in hunt for U.S. engineer
+__label__sadness Smith baby may not be pot of gold
+__label__fear Latest updates on world's top stories
+__label__sadness Beating leaves teen in coma
+__label__joy Tiempo Libre has Grammy dreams
+__label__surprise GPS sneakers locate with press of a button
+__label__sadness Embattled Edwards blogger quits campaign
+__label__fear Britons deported from Somalia held under Terrorism Act
+__label__fear Updates on world's top stories
+__label__joy Breast cancer drug promises hope
+__label__surprise Ancient coin shows Cleopatra was no beauty
+__label__surprise YouTube yields surprising payback
+__label__surprise Up to 22 inches of snow in forecast
+__label__joy Werder make 10-man Ajax pay price
+__label__anger EU condemns 'illegal' CIA flights
+__label__fear Report links humans to global warming
+__label__anger UN nuclear watchdog slashes Iran aid
+__label__sadness Survey: Tech a tool in teen dating abuse
+__label__joy The breast cancer breakthrough saving 1000 women a year
+__label__sadness Tourist spot resists gravity, but not progress
+__label__joy The NFL's 20 biggest potential free agents
+__label__joy World tourism sets record in 2006
+__label__surprise BA to charge $470 for an extra bag
+__label__joy Kuerten returns to winners' circle
+__label__surprise World's oldest newspaper now exists only online
+__label__sadness Japanese whaler afire in Antarctic
+__label__fear EU document: Iranian bomb unstoppable
+__label__joy U.S. urged to lead on 'green' actions
+__label__surprise See if your city is one of the United States' top 10 fittest or fattest
+__label__fear Lee in pre-World Cup injury scare
+__label__joy New cancer drug to save a thousand lives a year
+__label__disgust Ex-teacher guilty in nude-pictures scheme
+__label__surprise Fire extinguisher part of Tennessee execution kit
+__label__joy Founder returns to Dell helm
+__label__joy Charles Gibson takes over first place
+__label__sadness Ex-Border Patrol agent beaten in prison
+__label__anger 'Made in China' irks some Burberry shoppers
+__label__surprise Stonehenge workers' village found
+__label__surprise Who is Prince Frederic von Anhalt?
+__label__surprise Latest food-fad -- 'space potatoes'
+__label__joy Ethiopia readies for millennium all its own
+__label__joy Good news for slackers: Naps may cut risk for heart problems
+__label__sadness Snowbirds shortening their Florida stays
+__label__joy Win a (concert) date with the Police
+__label__fear Snow begins, heavy accumulations expected
+__label__joy Jet flips in snowstorm, none dead
+__label__surprise Frantic 911 call in Ryan O'Neal case
+__label__joy Durant's success trumps the Gators
+__label__disgust Scientist snoops in astronauts' journals
+__label__joy YouTube founders split $650M payout
+__label__joy African nation hopes Whoopi can help
+__label__joy United hang on to six-point lead
+__label__sadness Lawyer seizes Smith's Bahamas home
+__label__surprise Was Prince's super show too revealing?
+__label__sadness Clijsters looks for a long goodbye
+__label__surprise Snow's too deep even for snowmobiles
+__label__surprise Study: Female seals picky about mates
+__label__anger ROUNDUP: Protests erupt despite "state of siege" In Guinea
+__label__disgust Study: More kids exposed to online porn
+__label__joy Beyonce new SI bikini cover girl
+__label__surprise Marijuana helps ease HIV nerve pain, study says
+__label__sadness Serena misses Bangalore tournament
+__label__sadness Dryer blamed for fire killing 39 cats, dogs
+__label__joy Roddick, Murray score in San Jose
+__label__joy Apple trademark dispute settled
+__label__sadness U.S. online love brokers eye China
+__label__anger U.S. diverts troops to fight Taliban
+__label__sadness 'House of Cards' actor Ian Richardson dead
+__label__sadness Taliban leader killed in airstrike
+__label__joy Escape to Prague without the summer hordes
+__label__surprise Kathmandu: First snow in 63 years
+__label__sadness Nasdaq fails in bid for LSE
+__label__sadness Ex-pastor gets death sentence
+__label__surprise Baby born on turnpike after dad misses exit
+__label__surprise Study links chimps and 'hammers'
+__label__joy UN-Google Earth map climate change
