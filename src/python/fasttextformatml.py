@@ -1,7 +1,7 @@
 import csv
 
-file_path = '../../resources/semeval2007datatrial.csv'
-output_path = '../../resources/semeval2007trialfasttextml.txt'
+file_path = '../../resources/semeval2007datatrain.csv'
+output_path = '../../resources/semeval2007trainfasttextml.txt'
 
 with open(file_path) as f, open(output_path, 'w') as p:
     data = csv.DictReader(f)
