@@ -1,7 +1,7 @@
 import csv
 
 file_path = '../../resources/semeval2007datatrain.csv'
-output_path = '../../resources/semeval2007trainfasttextml.txt'
+output_path = '../../resources/semeval2007traintesteml.txt'
 
 with open(file_path) as f, open(output_path, 'w') as p:
     data = csv.DictReader(f)
@@ -19,7 +19,7 @@ with open(file_path) as f, open(output_path, 'w') as p:
                     emotionlist.append(key)
 
         if emotionlist:
-            labels = '__label__'.join(emotionlist)
+            labels = ' __label__'.join(emotionlist)
             fasttextline = '__label__' + labels + ' ' + newsheadlines + '\n'
             p.write(fasttextline)
 

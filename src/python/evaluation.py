@@ -11,9 +11,9 @@ import itertools
 
 
 #file path predicted labels
-file_path_pred = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/output_model3bigrammc.txt'
+file_path_pred = '/home/kenelly/workspaces/emotionnewsheadlines/fasttext/fastText-0.1.0/ExperimentDim/model_default_ml_output.txt'
 #file path true labels
-file_path_orig = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/semeval2007validfasttextmc.txt'
+file_path_orig = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/semeval2007validfasttextpreprocmc.txt'
 
 #function to collect the predicted and true labels from the files
 def emotion(file_path):
