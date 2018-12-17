@@ -45,8 +45,8 @@ def preprocessing(file_path, output_path, type):
 
         for line in data:
             newsheadlines = line['news_headlines']
+            newsheadlines = lowercase(newsheadlines)
             newsheadlines = replace_contractions(newsheadlines)
-            newsheadlines= lowercase(newsheadlines)
             newsheadlines = remove_pontuaction(newsheadlines)
             newsheadlines = remove_stopwords(newsheadlines)
 

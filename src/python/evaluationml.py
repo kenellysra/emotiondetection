@@ -2,26 +2,48 @@ from sklearn.metrics import precision_recall_fscore_support
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
-import matplotlib.pyplot as pllearn
+import matplotlib.pyplot as plt
 import numpy as np
 import itertools
 
+
 #file path predicted labels
-file_path_pred = '/home/kenelly/workspaces/emotionnewsheadlines/fasttext/fastText-0.1.0/model_epoch50lr1dim300bigram_ml_output.txt'
+file_path_pred = '/home/kenelly/workspaces/emotionnewsheadlines/fasttext/fastText-0.1.0/model_teste_ml_output.txt'
 #file path true labels
-file_path_orig = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/semeval2007validfasttextpreprocml.txt'
+file_path_true = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/semeval2007trainfasttextpreprocml.txt'
 
 #function to collect the predicted and true labels from the files
-def emotion(file_path):
-    with open(file_path) as f:
-        emotion_list = list()
+def emotion_pred(file_path_pred):
+    with open(file_path_pred) as f:
+        emotion_list_pred = list()
         for line in f:
             line_vec = line.split(" ")
             emotion = line_vec[0].replace("__label__", "")
-            emotion_list.append(emotion)
-        return emotion_list
+            emotion_list_pred.append(emotion)
+        return emotion_list_pred
 
-#function to calculate the overall metrics
+#function to collect the predicted and true labels from the files
+def emotions(file_path_pred, file_path_true):
+    pred = emotion_pred(file_path_pred)
+    pred_final = []
+    true_final = []
+    i=0
+    with open(file_path_true) as p:
+        for line in p:
+            line_vec = line.split(" ")
+            for label in line_vec:
+                if label.startswith('__label__'):
+                    emotion_true = label.replace("__label__", "")
+                    true_final.append(emotion_true)
+                    pred_final.append(pred[i])
+            i+=1
+
+    return pred_final, true_final
+
+
+y_pred, y_true = emotions(file_path_pred, file_path_true)
+
+#function to calculate multilabel metrics
 def metrics(y_true, y_pred):
 
     precision, recall, f_score, _ = \
@@ -74,15 +96,9 @@ def plot_confusion_matrix(cm, classes,
     plt.xlabel('Predicted label')
     plt.tight_layout()
 
-
 target_names = ['anger','disgust','fear','joy','sadness','surprise']
-y_pred = emotion(file_path_pred)
-y_true = emotion(file_path_orig)
 metrics(y_true, y_pred)
 metrics_labels(y_true, y_pred)
-
-
-
 confusionmatrix = confusion_matrix(y_true, y_pred, labels=['anger','disgust','fear','joy','sadness','surprise'])
 np.set_printoptions(precision=2)
 plt.figure()
@@ -90,4 +106,3 @@ plot_confusion_matrix(confusionmatrix, classes=target_names,
                       title='Confusion matrix without normalization')
 plt.show()
 print(confusionmatrix)
-
