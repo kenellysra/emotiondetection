@@ -8,9 +8,10 @@ import itertools
 
 
 #file path predicted labels
-file_path_pred = '/home/kenelly/workspaces/emotionnewsheadlines/fasttext/fastText-0.1.0/model_teste_ml_output.txt'
+file_path_pred = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/model_unsupervised_ml_output.txt'
+
 #file path true labels
-file_path_true = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/semeval2007trainfasttextpreprocml.txt'
+file_path_true = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/semeval2007testunsupervisedml.txt'
 
 #function to collect the predicted and true labels from the files
 def emotion_pred(file_path_pred):
@@ -24,7 +25,7 @@ def emotion_pred(file_path_pred):
 
 #function to collect the predicted and true labels from the files
 def emotions(file_path_pred, file_path_true):
-    pred = emotion_pred(file_path_pred)
+    pred = emotion_pred(file_path_pred)#src/python/evaluationml.py:24
     pred_final = []
     true_final = []
     i=0
@@ -74,7 +75,7 @@ def plot_confusion_matrix(cm, classes,
         cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
         print("Normalized confusion matrix")
     else:
-        print('Confusion matrix, without normalization')
+        print('Confusion matrix')
 
     print(cm)
 
@@ -85,7 +86,7 @@ def plot_confusion_matrix(cm, classes,
     plt.xticks(tick_marks, classes, rotation=45)
     plt.yticks(tick_marks, classes)
 
-    fmt = '.2f' if normalize else 'd'
+    fmt = '17f' if normalize else 'd'
     thresh = cm.max() / 2.
     for i, j in itertools.product(range(cm.shape[0]), range(cm.shape[1])):
         plt.text(j, i, format(cm[i, j], fmt),
@@ -103,6 +104,6 @@ confusionmatrix = confusion_matrix(y_true, y_pred, labels=['anger','disgust','fe
 np.set_printoptions(precision=2)
 plt.figure()
 plot_confusion_matrix(confusionmatrix, classes=target_names,
-                      title='Confusion matrix without normalization')
+                      title='Confusion matrix')
 plt.show()
 print(confusionmatrix)

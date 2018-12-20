@@ -4,11 +4,42 @@ import numpy as np
 from nltk.tokenize import word_tokenize
 from sklearn.metrics.pairwise import cosine_similarity
 import nltk
+import contractions
+import string
+from nltk.corpus import stopwords
+nltk.download('stopwords')
 
 nltk.download('punkt')
 
 emotions = ['anger', 'disgust', 'fear', 'joy', 'sadness', 'surprise']
 
+
+# removing contractions
+def replace_contractions(text):
+    return contractions.fix(text)
+
+
+# transforming to lowercase
+def lowercase(text):
+    return text.lower()
+
+
+# removing pontuaction
+def remove_pontuaction(text):
+    for p in string.punctuation:
+        text = text.replace(p, " ")
+    return text
+
+
+# removing stop words
+def remove_stopwords(text):
+    stop_words = stopwords.words('english')
+    not_stopwords = ['against', 'above', 'below', 'up',
+                     'down', 'no', 'nor', 'not']
+    final_stopwords = [word for word in stop_words if word not in not_stopwords]
+    headlines_words = text.split()
+    filtered_headlines = [word for word in headlines_words if word not in final_stopwords]
+    return " ".join(filtered_headlines)
 
 class WordEmbeddings(object):
     def __init__(self, file_path, vocab):
@@ -40,15 +71,15 @@ class WordEmbeddings(object):
             return np.array(self.wb[word])
         except:
             print('WARNING, word \'{}\' not found'.format(word))
-        return None
+        return np.zeros(300)
 
     def sentence_2_vector(self, sentence):
         vectors = [self.get_vector(token) for token in sentence]
-        return sum([v for v in vectors if v is not None])
+        return np.mean([v for v in vectors], axis=0)
 
 
 class Dataset():
-    def __init__(self, file_path, threshold = -1):
+    def __init__(self, file_path, threshold = 50):
         self.file_path = file_path
         self.threshold = threshold
         self.x = []
@@ -60,9 +91,13 @@ class Dataset():
         return list(self.vocab)
 
     def preprocess(self, text):
-        # TODO add preprocessing here: stop words, punctuation
-        # 4 currently only tokenizing
-        return word_tokenize(text)
+        #4 pre-processing steps
+        textprep = text.lower()
+        textprep = contractions.fix(textprep)
+        textprep = remove_pontuaction(textprep)
+        textprep = remove_stopwords(textprep)
+        textprep = word_tokenize(textprep)
+        return textprep
 
     def _load_vocab(self):
         self.vocab = set()
@@ -95,9 +130,9 @@ def normalize(result):
     return result
 
 #1 including the path files to the semeval data set and pre trained word embeddings
-dataset_file_path = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/semeval2007datavalid.csv'
+dataset_file_path = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/semeval2007dataunsupervised.csv'
 word_embeddings_file_path = '/home/kenelly/workspaces/emotionnewsheadlines/fasttext/fastText-0.1.0/wiki-news-300d-1M.vec'
-output_file = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/output.txt'
+output_file = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/model_unsupervised_ml_output.txt'
 
 
 #2 Creating instances of dataset and wordembedding classes
@@ -123,3 +158,4 @@ with open(output_file, 'w') as w:
                 sorted(result.items(), key=lambda x: x[1], reverse=True)])
 
         w.write(line + '\n')
+

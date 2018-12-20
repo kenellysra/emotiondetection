@@ -2,14 +2,14 @@ from sklearn.metrics import precision_recall_fscore_support
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
-import matplotlib.pyplot as pllearn
+import matplotlib.pyplot as plt
 import numpy as np
 import itertools
 
 #file path predicted labels
-file_path_pred = '/home/kenelly/workspaces/emotionnewsheadlines/fasttext/fastText-0.1.0/model_epoch50lr1dim300bigram_ml_output.txt'
+file_path_pred = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/model_unsupervised_ml_output.txt'
 #file path true labels
-file_path_orig = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/semeval2007validfasttextpreprocml.txt'
+file_path_orig = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/sememval2007testunsupervisedml.txt'
 
 #function to collect the predicted and true labels from the files
 def emotion(file_path):
@@ -44,10 +44,10 @@ def plot_confusion_matrix(cm, classes,
                           normalize=False,
                           title='Confusion matrix',
                           cmap=plt.cm.Blues):
-    """
-    This function prints and plots the confusion matrix.
-    Normalization can be applied by setting `normalize=True`.
-    """
+    
+    #This function prints and plots the confusion matrix.
+    #Normalization can be applied by setting `normalize=True`.
+    
     if normalize:
         cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
         print("Normalized confusion matrix")
@@ -80,7 +80,6 @@ y_pred = emotion(file_path_pred)
 y_true = emotion(file_path_orig)
 metrics(y_true, y_pred)
 metrics_labels(y_true, y_pred)
-
 
 
 confusionmatrix = confusion_matrix(y_true, y_pred, labels=['anger','disgust','fear','joy','sadness','surprise'])

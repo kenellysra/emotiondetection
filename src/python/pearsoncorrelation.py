@@ -8,8 +8,8 @@ from scipy.stats import pearsonr
 from collections import defaultdict
 from pprint import pprint
 
-original_file_path = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/semeval2007datavalid.csv'
-predicted_file_path = '/home/kenelly/workspaces/emotionnewsheadlines/fasttext/fastText-0.1.0/model_epoch50lr1dim300bigram_ml_output.txt'
+predicted_file_path = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/model_unsupervised_ml_output.txt'
+original_file_path = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/semeval2007dataunsupervised.csv'
 # predicted_file_path = ''
 pearson_calc_mode = 'row'  # row or column
 row_threshold = 50 # -1 for accepting all lines
