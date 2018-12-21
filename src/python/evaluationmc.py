@@ -7,9 +7,9 @@ import numpy as np
 import itertools
 
 #file path predicted labels
-file_path_pred = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/model_unsupervised_ml_output.txt'
+file_path_pred = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/model_unsupervised_mc_output.txt'
 #file path true labels
-file_path_orig = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/sememval2007testunsupervisedml.txt'
+file_path_orig = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/sememval2007testunsupervisedmc.txt'
 
 #function to collect the predicted and true labels from the files
 def emotion(file_path):
@@ -86,7 +86,7 @@ confusionmatrix = confusion_matrix(y_true, y_pred, labels=['anger','disgust','fe
 np.set_printoptions(precision=2)
 plt.figure()
 plot_confusion_matrix(confusionmatrix, classes=target_names,
-                      title='Confusion matrix without normalization')
+                      title='Confusion matrix for unsupervised learning')
 plt.show()
 print(confusionmatrix)
 

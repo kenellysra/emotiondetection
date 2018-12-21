@@ -79,7 +79,7 @@ class WordEmbeddings(object):
 
 
 class Dataset():
-    def __init__(self, file_path, threshold = 50):
+    def __init__(self, file_path, threshold = -1):
         self.file_path = file_path
         self.threshold = threshold
         self.x = []
@@ -132,7 +132,7 @@ def normalize(result):
 #1 including the path files to the semeval data set and pre trained word embeddings
 dataset_file_path = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/semeval2007dataunsupervised.csv'
 word_embeddings_file_path = '/home/kenelly/workspaces/emotionnewsheadlines/fasttext/fastText-0.1.0/wiki-news-300d-1M.vec'
-output_file = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/model_unsupervised_ml_output.txt'
+output_file = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/model_unsupervised_mc_output.txt'
 
 
 #2 Creating instances of dataset and wordembedding classes

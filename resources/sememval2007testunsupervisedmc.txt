@@ -1,0 +1,1250 @@
+__label__joy test predict breast cancer relapse approved
+__label__sadness two hussein allies hanged iraqi official says
+__label__joy sights sounds ces
+__label__joy schuey sees ferrari unveil new car
+__label__fear closings cancellations top advice flu outbreak
+__label__sadness trucks swallowed subway collapse
+__label__surprise sarkozy letter surprises french cartoons hearing
+__label__sadness building memorial son one child time
+__label__surprise lawmaker seeks ipod ban crosswalks new york
+__label__sadness diabetic waits months eyeglasses
+__label__surprise sudan tells united nations envoy leave 72 hours
+__label__surprise 5000 years couple still hugging
+__label__surprise defense challenge russert credibility
+__label__joy ozzy hero hard rocking masses
+__label__surprise cia leak trial summary
+__label__joy dance movie takes no 1
+__label__surprise asian nations urge myanmar reform
+__label__joy iraq trip clinton proposes war limits
+__label__sadness 7 dead apartment building fire
+__label__surprise male sweat boosts women hormone levels
+__label__surprise carphone warehouse mixed signals
+__label__surprise democrats plot bush troop increase censure
+__label__anger cisco sues apple iphone name
+__label__disgust bb star jackson denies goody comments
+__label__joy inter milan set serie win record
+__label__surprise us airways boosts bid delta
+__label__joy press sees hope mecca talks
+__label__surprise bears fan loses bet changes name
+__label__disgust global national major child porn ring bust
+__label__surprise human hair clue hunt airliner
+__label__joy johnny depp make movie spy poisoning
+__label__surprise really claim pill make put weight
+__label__joy 5 money makeovers
+__label__fear tbs pay 2m fine ad campaign bomb scare
+__label__joy stomp yard winning moves weekend debut
+__label__surprise discovered boys bring shock joy
+__label__sadness bernhard set leave volkswagen
+__label__fear pacers jackson misses gun hearing
+__label__joy cases simple solution right one
+__label__anger two muslim groups sue french newspaper international
+__label__joy golden globes way
+__label__surprise new ozzfest freedom not free
+__label__sadness federer handed tough aussie draw
+__label__joy protesters end strike nepal pm concedes demands
+__label__fear turner pays boston bombing
+__label__disgust two detained body parts mailing
+__label__sadness essay mean streak psychiatry much
+__label__sadness hussein niece pleads father life
+__label__anger sarkozy heads clash cartoons row
+__label__anger global web suspects child rape download
+__label__joy blake defeats moya retain title
+__label__fear storms kill knock power cancel flights
+__label__sadness aquarium puts ailing beluga whale sleep
+__label__surprise microsoft sony problem
+__label__fear police state issues
+__label__surprise move ban ipods crossing street
+__label__joy india taj mahal gets facelift
+__label__anger cheney congress cannot run iraq war committee
+__label__joy ganguly handed india squad call up
+__label__joy fortune looking beyond iphone
+__label__surprise really claim back seat car safest place sit
+__label__anger vaccine mandate upsets legislators
+__label__fear news analysis iranian boast put test
+__label__fear panel issues bleak report climate change
+__label__joy virtual erican idol hits right notes
+__label__sadness iraq car bombings kill 22 people wound 60
+__label__joy stomp steps no 1 box office
+__label__joy google executive acts goodwill envoy
+__label__fear filipino woman kidnapped nigeria
+__label__joy seahawks bears vie shot nfl title
+__label__sadness brown not buried estate issues loom
+__label__surprise rob cohen direct third mummy
+__label__joy eu urge china go green
+__label__surprise 17th century remedy 21st century potency
+__label__fear forecasters expect toasty 2007
+__label__joy sunshine goydos wins sony open
+__label__disgust teacher charged sex assault
+__label__joy merck gardasil may fight strains
+__label__fear mountain glaciers melting faster united nations says
+__label__sadness snow causes airport closures britain
+__label__joy bananaconda inventor top poet kids
+__label__anger shareholders sue apple
+__label__fear israelis retaliate attack lebanese army
+__label__fear deadly bird flu confirmed british turkeys
+__label__surprise little sleep may mean fat kids
+__label__sadness bathing mom awakes find baby dead
+__label__joy visitors eiffel tower climb record 2006
+__label__surprise sleep healthier slimmer children
+__label__joy queen battles bond baftas
+__label__sadness walters trump poor pathetic man
+__label__fear ice storm smacks roads power
+__label__fear iran says strike us interests attacked
+__label__joy palestinian factions resume talks
+__label__surprise study men sweat triggers high sexual arousal women
+__label__fear outcry n korea nuclear test
+__label__fear russia plans major military build up
+__label__surprise archaeologists find remains couple locked hug
+__label__joy stenson defends title dubai
+__label__fear taking plunge
+__label__joy updates world top stories
+__label__surprise man rides stationary bike 85 hours
+__label__fear ice storm coating midwest
+__label__anger mistrial lieut watada
+__label__fear iran warns hit back us attacked
+__label__joy asean talks end energy security
+__label__sadness iraqi death toll exceeded 34 000 2006 united nations says
+__label__fear israel intensifies military flights lebanon
+__label__joy new gadgets galore tech show
+__label__sadness another death georgia aquarium
+__label__fear us urge nato afghan spring offensive
+__label__fear uk letter bombs may extremist drivers
+__label__surprise asia seeks breakthrough north korea
+__label__joy federer overcomes ragged start
+__label__anger rowdy fans ejected open
+__label__joy terai protesters hail historic victory government
+__label__anger anger release two held beheading plot
+__label__anger bush adamant troops iraq
+__label__joy bebe neuwirth gets wiggle
+__label__joy beckham l game not fame
+__label__surprise sleep fight childhood obesity
+__label__sadness abbas rejects temporary state
+__label__disgust investigation child porn site hits 77 nations
+__label__surprise sleuths close odysseus home
+__label__surprise variety johnny depp make movie spy poisoning
+__label__fear ice storm cripples central
+__label__joy park stars united maintain lead
+__label__surprise prehistoric romeo juliet discovered
+__label__joy india famous landmark gets facelift
+__label__joy joseph wambaugh new start
+__label__sadness participant water drinking contest dies
+__label__surprise apple drops bombshell iphone
+__label__joy bollywood brangelina engaged
+__label__fear shiite fighters arrested crackdown iraq says
+__label__sadness rio de janeiro journal drawing lines across sand classes
+__label__surprise models health guidelines help
+__label__joy stepping back time ski resort
+__label__sadness test cricketer jailed killing
+__label__joy walnuts combat unhealthy fats
+__label__surprise apple vista upgraders wait
+__label__sadness injured sarwan miss one dayers
+__label__fear firms alert letter bombs
+__label__surprise studios sign movie downloads
+__label__joy asif returns four wicket haul
+__label__anger bush authorized iranians arrest iraq rice says
+__label__disgust porn ring scandal reaches australia
+__label__sadness deputy health minister arrested us iraqi raid
+__label__surprise senator carl krueger thinks ipods kill
+__label__joy finally senate okays anti terror bill manila
+__label__fear somalia declares state emergency
+__label__joy matt shines alpine finish
+__label__sadness bp ceo browne step down june
+__label__surprise iphone name surely not
+__label__sadness life gaza steadily worsens
+__label__surprise energy challenge exotic visions cool planet maybe
+__label__joy easy ways really save 400 000
+__label__anger shareholders sue apple
+__label__fear findings humanity survive want bet
+__label__fear iran steps up production weapons grade uranium
+__label__fear rig threat cargo ship towed ashore
+__label__sadness palestinians say clashes hurt
+__label__surprise male sweat raise hormones
+__label__surprise vital signs hazards antidepressant linked fractures older people
+__label__sadness peron held 70s rights abuses
+__label__surprise space life search turns tv
+__label__sadness super bowl ads cartoonish violence perhaps reflecting toll war
+__label__surprise youtube told drop celeb sex video
+__label__joy beckham posh athlete celebrity couples
+__label__fear city sets up ice storm shelters
+__label__sadness libby prosecutors await judge rulings
+__label__sadness review alpha dog misses point
+__label__anger republicans plan block iraq debate
+__label__surprise mixed reaction china africa push
+__label__joy snowed canadian rockies
+__label__surprise skip showers male sweat turns women study says
+__label__joy gently weeps lyrics sheet up sale
+__label__joy canete wins inaugural joburg open
+__label__joy rights group halts violent nepal strikes
+__label__sadness real suffer carlos injury setback
+__label__sadness astronaut may buckled stress
+__label__fear gunmen abduct filipino woman nigeria
+__label__joy nfl team fan year flag lady
+__label__surprise no 10 rejects police state claim
+__label__joy malaysian airasia x fly july
+__label__fear 10 kidnapped nigeria oil base
+__label__surprise guy sweat babe magnet
+__label__joy township tourism booming south africa
+__label__surprise alpha dog misses point
+__label__surprise iran leader pays nicaragua visit
+__label__joy grey pirates lead people choice
+__label__fear terror network
+__label__sadness official iraq mess
+__label__sadness snow brings travel misery england
+__label__surprise james brown 5 year old son left
+__label__sadness two men killed london tube train
+__label__sadness us millions fail buy influence deadly gaza power play
+__label__joy plo ministers agreed upon mecca
+__label__sadness squadron apologies friendly fire death
+__label__fear new orleans violence sparks tourism fears
+__label__fear friendly fire pilot experienced
+__label__surprise space com black hole triplets spotted
+__label__surprise vaccines mandate choice
+__label__anger congolese soldiers riot loot pay issue
+__label__joy commodities lead europe higher
+__label__surprise ingredient male sweat raises women hormone levels
+__label__joy goetschl ends austrian win drought
+__label__fear doomsday clock ticking away
+__label__fear troops massing around somali town
+__label__surprise tariq ramadan identity issue
+__label__anger peretz orders idf respond force north border attacks
+__label__sadness trains crash near thai resort town
+__label__joy hamas fatah return unity gov talks mecca
+__label__joy pats fourth quarter rally finishes chargers
+__label__sadness 7 die us helicopter crashes iraq
+__label__sadness millionaire secret santa dies
+__label__joy morrissey may cheer up eurovision
+__label__joy christian values guide dungy colts
+__label__anger israeli woman tirade spurs pm outrage
+__label__anger passing exchange becomes political flashpoint
+__label__sadness police probe 2 church fires half mile apart
+__label__anger italy try us soldier agent iraq death
+__label__joy depp star spy poisoning film
+__label__joy 24 jack bauer returns
+__label__surprise us airways boosts bid delta
+__label__fear even release world climate report criticized optimistic
+__label__sadness second hanging also went awry iraq tape shows
+__label__joy howell takes one shot lead sony open
+__label__sadness psych checks reviewed astronaut crack up
+__label__surprise pap test mainstay against cervical cancer may fading
+__label__joy martins leads newcastle fightback
+__label__joy ps3 pricey impressive
+__label__joy pluto revenge word year award
+__label__joy european space agency
+__label__anger hackers strike key internet servers
+__label__sadness hussein co defendants executed
+__label__fear memo frankfurt germany relives 1970s terror 2 seek release jail
+__label__joy blissing ojai
+__label__sadness houston got problems
+__label__joy amazon com best ever sales
+__label__anger hackers attack root servers
+__label__surprise video games improve vision
+__label__surprise internet attacked anyone notice
+__label__surprise washington contractors take biggest role ever
+__label__sadness floods force malaysia evacuations
+__label__surprise myspace girls seek friends boys flirt
+__label__fear tests drug block h v infection halted safety
+__label__sadness zoo polar bear root canal
+__label__joy europe take big royal trophy lead
+__label__joy israel install cameras show live mughrabi footage
+__label__sadness lit last candle yesterday
+__label__surprise google buys youtube 1 65bn
+__label__joy psp number one sony platform japan
+__label__joy england include giles wc squad
+__label__sadness beckham not play real
+__label__sadness eight years damilola killers
+__label__sadness pc world editor slain california home
+__label__fear hands wouldoomsday clock move forward
+__label__sadness zach braff says mild depression
+__label__disgust investigation child porn site hits 77 nations usa today
+__label__fear science panel calls global warming unequivocal
+__label__joy news baby pandas baby pandas baby pandas
+__label__joy get ready earnings
+__label__sadness germany agonizes brain drain
+__label__joy iran nicaraguan leaders meet
+__label__surprise secret hotels irish countryside
+__label__joy fine wines british columbia
+__label__joy philippine president welcomes senate approval anti terror bill
+__label__sadness small jet crashes takeoff killing 2
+__label__fear bigger aggressive rats infesting uk
+__label__joy travel leisure next island hot spot st lucia
+__label__joy real mallorca rock leaders sevilla
+__label__fear iran boast uranium enrichment put test
+__label__fear personal health teenagers car danger zone
+__label__joy bird watchers flock see rare owl
+__label__sadness eye cosmos lost short circuit hubble
+__label__sadness young facing cancer 40
+__label__joy unilever group names new chairman
+__label__anger minister slams airlines carbon
+__label__joy rare optimism north korea talks reach crossroads
+__label__sadness man beheaded southern thailand
+__label__fear china nightmare scenario
+__label__surprise annual diving contest south korea proves chilly challenge
+__label__sadness blair says regrets delays british soldier inquest
+__label__fear iraqi forces detain official suspected shia conspiracy
+__label__joy wellcome awards anti fat research
+__label__joy fingers crossed north korea
+__label__joy no intention war iran us says
+__label__fear newsom faces aftermath scandal
+__label__joy maggie gyllenhaal globes babysitter mom
+__label__sadness inflation soars zimbabwe economy plunges
+__label__disgust pledge abused frat hazing
+__label__fear experts fear likely shackled boy
+__label__fear behind chopper crashes iraq
+__label__fear freed muslim terror suspect says britain police state
+__label__sadness blair apologises friendly fire inquest
+__label__joy depp make litvinenko movie
+__label__surprise gas follows oil up not down
+__label__joy cravings still sez tara
+__label__sadness bill would strip convicted legislators pensions
+__label__sadness bears watch lead slips away
+__label__surprise clue addiction brain injury halts smoking
+__label__joy rigorous test talk therapy works panic disorder
+__label__joy rice not pull plug iraq
+__label__fear road kosovo independence warning go slow
+__label__sadness mistrial officer refused go iraq
+__label__surprise rebels join nepal parliament
+__label__fear emi warns profits boss goes
+__label__sadness subway collapse caught camera
+__label__surprise stinky true men sweat made love
+__label__joy politics us reprieve officer denounced immoral war
+__label__sadness hunters stalk world tallest trees
+__label__fear fuel spill may lead missing jet
+__label__sadness sri lanka floods displace 60 000
+__label__sadness justin timberlake cameron diaz announce split
+__label__fear iran hit us interests attacked
+__label__joy israel says hopes keep lebanon border calm
+__label__anger cisco sues apple iphone name
+__label__sadness two palestinians killed near fence
+__label__sadness earthlink ceo dies age 49
+__label__sadness star dies family feud born
+__label__anger carter disaster said ford
+__label__joy super bowl mvp manning insists one guys
+__label__fear personal health importance knowing doctor talking
+__label__anger israel peretz urges halt contentious jerusalem construction
+__label__anger peter jackson never work
+__label__joy keeps iran options open
+__label__joy european shares hit fresh highs
+__label__surprise women nothing like smell men sweat
+__label__surprise looking beyond iphone
+__label__fear freed kidnap suspect terror police raid
+__label__joy far away super bowl losers champs
+__label__sadness woman dies water binge
+__label__joy mancuso sparks celebrations
+__label__fear asean urges north korea resolution
+__label__sadness late penalty costs roma points
+__label__sadness mistrial declared teacher student rape case
+__label__joy bookworm adventures wordsmith joy
+__label__sadness kylie love split
+__label__joy ipod good video games
+__label__joy review virtual erican idol hits right notes
+__label__joy leo battles
+__label__anger attorneys point fingers fight ryan neal son
+__label__fear john grisham set court drama
+__label__surprise bill gates craig mundie vista secure employees not
+__label__anger iraqis fault delayed plan attack
+__label__fear boy scouts blamed starting wildfire
+__label__fear china urges un action n korea
+__label__fear scorpion plane pantful pain
+__label__surprise male sweat boosts women hormone levels
+__label__surprise mbeki big visit chinese
+__label__joy french right nominates sarkozy
+__label__fear israeli lebanese clash border
+__label__fear north korea claims nuclear test
+__label__joy talks begin somalia peacekeepers
+__label__surprise action games improve eyesight
+__label__surprise small part brain profound effects
+__label__fear idf shells lebanese army positions across northern border
+__label__sadness thailand missing 25 years taking wrong bus
+__label__anger ballerina sparks anti fascist row
+__label__joy internet boom china built virtual fun
+__label__joy review ps3 pricey impressive
+__label__joy machinery orders drive asia upward
+__label__disgust lost fox liar cheat
+__label__fear russia strengthen military muscle
+__label__fear libby trial russert nbc gives gets
+__label__joy north korea ready discuss first steps nuclear resolution
+__label__surprise victim gunman bought drink shooting
+__label__joy ferrer victorious spanish duel
+__label__fear uk workers alert letter bombs
+__label__surprise nasa accidentally kill life mars
+__label__joy new vaccine cervical cancer could prove useful men
+__label__sadness search victims subway collapse
+__label__sadness human error caused helios crash
+__label__fear us prod nato allies troops defeat taliban
+__label__joy microsoft supports openid authentication standard
+__label__sadness no buyer sight napster
+__label__joy briefly preloaded ipods wal mart movies apple stores
+__label__sadness china says rich countries take lead global warming
+__label__joy north korea may begin dismantle nukes
+__label__joy tracking down hi tech crime
+__label__joy barack obama formally announces bid president
+__label__fear kidnappers seize two nigeria
+__label__fear indonesia may sell not give bird flu virus scientists
+__label__sadness attack video saddens friendly fire widow
+__label__joy europe retain trophy big win
+__label__joy cutting edge accessories digital music players
+__label__fear ice storm descends central
+__label__sadness snow brings travel misery england
+__label__sadness indonesia flood forces 340 000 homes
+__label__surprise iraqi health minister seized raid
+__label__fear ice storm brings chaos
+__label__joy stinky flower mystery solved
+__label__anger congressman rebukes allies lack support afghanistan
+__label__joy roddick overcomes federer final
+__label__joy prehistoric romeo juliet discovered
+__label__joy donald goydos share sony lead
+__label__fear iraqis wrangling war plans
+__label__sadness sea search missing microsoft scientist
+__label__fear iran hit us interests attacked
+__label__fear blair terror battle long
+__label__joy bear cub returned wilderness
+__label__sadness carrefour sales growth falls short
+__label__surprise allied democrats lieberman easily aligns republicans
+__label__sadness rockies pines die bears feel
+__label__fear iran strike us interests attacked
+__label__disgust nipple covers star secrets
+__label__surprise apple no itunes vista
+__label__sadness smokestacks white wilderness divide iceland
+__label__anger cost ya
+__label__fear botched hangings iraq speed sectarianism
+__label__surprise male sweat raises female hormones
+__label__joy 7 gop senators force debate troops iraq
+__label__joy bangladesh ends curfew amid unrest
+__label__anger italy dispute us iraq shooting
+__label__joy come globes
+__label__sadness snow causes transport chaos britain
+__label__sadness snow causes airport closures britain
+__label__surprise second opinion girl boy fertility technology advances ethical debate
+__label__fear heavy snow causes travel chaos shuts schools
+__label__joy barbaro legacy saving horses
+__label__joy luxury digs south carolina lowcountry
+__label__sadness dozens killed baghdad bombing
+__label__sadness ice storms kill 21 across nation
+__label__joy de villiers takes dakar lead
+__label__joy vietnam becomes wto 150th member
+__label__joy south african trio share advantage
+__label__fear observatory poison begets poison
+__label__joy action intensity boosts vision
+__label__surprise smell man armpit turn
+__label__joy nokia 5300 xpress music
+__label__sadness dell cut bonuses trim management
+__label__surprise second drop cancer deaths could point trend researchers say
+__label__joy tv game shows go interactive
+__label__joy boy missing since 2002 found alive
+__label__joy us north korea signed nuclear memo
+__label__joy russia honors sputnik designer
+__label__fear kenya capital sense danger ever stronger
+__label__joy bill thanks rsa memories laughs
+__label__sadness friendly fire pilot experienced
+__label__joy myspace welcomes french friends
+__label__fear airlines uk airport runway unsafe
+__label__fear amounts pay bomb scare
+__label__joy egypt rice speaks softly
+__label__sadness weekly nielsen yvonne de carlo munsters star dead
+__label__sadness senate votes revoke pensions
+__label__sadness earthlink ceo dies age 49
+__label__sadness software giant sap misses target
+__label__surprise vital signs mental abilities folic acid may improve thinking skills
+__label__joy de villiers stretches overall lead
+__label__joy families celebrate return sons
+__label__fear china detains 2 body parts found mail
+__label__joy north korea ready discuss nuke disarmament
+__label__surprise women nothing like smell men sweat
+__label__joy nadal wants australian open crown
+__label__joy beijing journal olympic construction unearths ancient treasure trove
+__label__joy chinese president arrives mozambique african tour nearly
+__label__joy reclusive mockingbird author attends show
+__label__joy asia near pact energy security
+__label__sadness philippine anti terror law delayed june
+__label__anger ex suspect slams anti terror laws
+__label__joy study detects gene linked alzheimer
+__label__joy panda cub makes debut
+__label__joy harris haul puts south africa top
+__label__joy weight loss drug sold counter
+__label__joy beckham outlines reasons move
+__label__surprise study finds gritty air raises heart disease risk older women
+__label__anger venezuela iran fight dominance
+__label__sadness housewives star marcia cross bed rest
+__label__joy blog come globes
+__label__anger greek police hunt embassy attackers
+__label__surprise apple warns itunes users wait vista
+__label__fear tsunami fears ease quake
+__label__joy china considers eurobond reserves
+__label__surprise underarm bowls
+__label__sadness least 130 die blast levels baghdad market
+__label__anger new mccain team made attack ads faulted
+__label__fear deaths bird flu flares asia
+__label__joy hamas fatah leaders pledge meet reach agreement
+__label__disgust officers rapport alleged abductor
+__label__sadness no e book harry potter vii
+__label__joy review nokia 5300 xpress music
+__label__surprise cannot anymore not jack
+__label__surprise black hole triplets spotted
+__label__surprise israel weighs old city project webcast
+__label__sadness indonesian bird flu deaths hit 61
+__label__sadness somali refugees cut aid
+__label__joy microsoft downplays vista speech recognition hack
+__label__joy next island hot spot st lucia
+__label__anger italy hold no show trial bronx gi iraq slay
+__label__joy rescued boys parents hail miracle
+__label__disgust canadians tracked child porn ring
+__label__surprise teen hacks venezuelan government web sites
+__label__fear russia plans new icbms nuclear subs
+__label__joy gere cheers sex workers aids fight
+__label__surprise study male sweat causes female hormones rise
+__label__sadness collision icy road kills 7
+__label__joy surprise china cuts price gas
+__label__joy godfather soul meant
+__label__joy new mars orbiter spots pathfinder landing site
+__label__anger mass venezuela opposition rally
+__label__joy glamour borat golden globes
+__label__fear terror officials see al qaeda chiefs regaining power
+__label__surprise ivrea journal italian town civics lesson pelting neighbors
+__label__joy iraqi sunni lands show new oil gas promise
+__label__joy princess heir franz ferdinand fights repeal law gain castle
+__label__fear film star kampala conjuring aminos ghost
+__label__fear militants attack base iraq
+__label__fear north africa feared staging ground terror
+__label__fear iran says sunnis using pakistan base planned fatal bombing
+__label__anger anglicans rebuke branch sex unions
+__label__sadness homemade bombs kill 65 indian train
+__label__fear al qaeda chiefs seen regain power
+__label__anger chvez threatens jail violators price controls
+__label__fear bush declares iran arms role iraq certain
+__label__joy accord north korea announced
+__label__fear says powerful iraqi cleric living iran
+__label__joy baghdad plan success iraq prime minister tells bush
+__label__joy iraqi sunni lands show new oil gas promise
+__label__anger dispute iraqi cleric said gone iran
+__label__fear planning seen iraqi attacks copters
+__label__sadness world life saving drugs growing epidemic deadly fakes
+__label__surprise basics mammal winter furnace
+__label__surprise books science problems modeling nature unruly natural tendencies
+__label__surprise believing scripture playing science rules
+__label__joy familiar prescient voice brought life
+__label__surprise findings cool 25 million climate backup plan
+__label__joy call serendipity missing piece washington war tent found
+__label__surprise free not
+__label__surprise archaeologists find signs early chimps tool use
+__label__surprise wizardry harvard physicists move light
+__label__disgust summit slap face palestinians
+__label__joy moscow says palestine israeli contacts key mideast peace
+__label__sadness mideast summit edns little progress
+__label__fear india decries act sabotage
+__label__joy pakistan india peace talks planned despite bombings
+__label__fear czechs poles get missile warning
+__label__fear russia warns us against missile bases east europe
+__label__joy cheney starts visit japan australia
+__label__joy china cheney shores up trilateral alliance
+__label__fear iraq insurgents attack us base
+__label__sadness us soldiers die day violence
+__label__sadness iraqi suicide attack kills two us troops militants fight purge
+__label__fear iran reneges nuclear payments russia
+__label__sadness top colombia official resigns
+__label__sadness colombia fm resigns relatives arrests militia links
+__label__joy foreign minister colombia quits scandal
+__label__sadness new zealand unlikely allow crippled japanese whaler
+__label__sadness damaged japanese whaling ship may resume hunting antarctica
+__label__disgust japanese whaling ship not accept help
+__label__joy iran top n envoy heads vienna nuke talks
+__label__sadness victims air india still wait justice
+__label__disgust kanishka bombing case inquiry judge threatens quit
+__label__anger judge threatens shut down air india inquiry
+__label__joy royal rescues presidential hopes commanding performance
+__label__joy royal seeks revive french bid
+__label__joy sarkozy comfort zone offers royal opportunity
+__label__sadness hicks first line trial bush says
+__label__surprise australia tells bush speed up guantanamo trial
+__label__fear howard presses bush terror suspect
+__label__fear france ends toxic alert canadian embassy paris
+__label__fear paris police investigate package canadian embassy
+__label__fear false alarm canadian embassy paris
+__label__joy afghan forces retake town overrun taliban
+__label__fear taliban seize rural district southwest police flee
+__label__sadness afghan poppy war alienates farmers
+__label__joy north korea honor pledge time
+__label__surprise kim jong il bans japanese cars north korea
+__label__anger iran vs north korea not enemies equal
+__label__joy catholic archbishop outlines anglican merger hopes
+__label__joy anglican catholic churches could merge
+__label__sadness us helicopter crash kills 8 troops afghanistan
+__label__sadness eight us soldiers killed zabul helicopter crash
+__label__joy arroyo lauds passage anti terror bill
+__label__joy house passes anti terrorism measure manila
+__label__joy livingstone transport empire may extend
+__label__joy london pace setter congestion toll says mayor
+__label__anger protest greets congestion charge westward push
+__label__sadness thailand attacks kill three injure 70
+__label__joy thai govt moves smooth relations south
+__label__fear bombings say muslim rebels not negotiate
+__label__surprise roots autism complex thought
+__label__surprise largest ever autism study identifies two genetic culprits
+__label__joy canadian breakthrough offers hope autism
+__label__fear beware peanut butter pathogens
+__label__joy experts offer advice salmonella
+__label__joy experts issue new heart disease guidelines women
+__label__joy women aspirin day could keep stroke away
+__label__fear high cholesterol raises stroke risk healthy women
+__label__fear cooked chicken breasts join tainted food recalls
+__label__fear ready eat chicken breasts recalled due suspected listeria
+__label__surprise fully cooked chicken strips recalled
+__label__surprise committee debates cancer vaccine plan
+__label__joy stop cancer shot
+__label__joy 1 mln birds vaccinated bird flu near moscow
+__label__fear thousands tested russian h5n1 outbreak
+__label__fear russian bird flu outbreak deadly asian strain
+__label__sadness bernard matthews lay up 500 workers
+__label__sadness matthews lays 130 turkey workers
+__label__fear reopening bird flu hitfactory ignores risks poultryman
+__label__sadness goodbye girlhood
+__label__anger media cited showing girls sex objects
+__label__anger sexualisation harms young girls
+__label__fear shot arm
+__label__fear thousands line up get late flu shots
+__label__joy king county offering free flu vaccines
+__label__joy bush vows cooperation health care
+__label__joy health returns hot issue 08 race
+__label__joy small business owners find bush health plan appealing
+__label__fear pediatricians say cord blood needed
+__label__surprise whether save cord blood puzzle parents
+__label__joy retinal implant helping blind people see
+__label__surprise indonesia not share flu samples
+__label__fear health canada issues advice canned tuna
+__label__sadness cholesterol link diabetes study
+__label__surprise pig cells hope diabetes cure
+__label__surprise sick hearts switch fetal gene
+__label__surprise foetal mechanism helps heart failure
+__label__fear planned cesareans not risk free group warns
+__label__joy scientists tout cocoa health benefits
+__label__joy feeding brain new benefits found chocolate
+__label__joy cocoa may improve brain blood flow
+__label__anger lawyer deceased nazi era collaborator papon vows bury
+__label__joy cocoa could antidote age related diseases says new study
+__label__surprise china denies reports north korean apology
+__label__anger hungarian opposition calls vote violence escalates
+__label__sadness au regrets sudan expulsion un envoy
+__label__fear bush officials no big move iraq plan
+__label__surprise opponent put spot remarks clinton
+__label__joy house ethics panel talks hastert aide
+__label__joy bellsouth says profit rises 30 cingular earnings
+__label__sadness enron boss gets 24 year sentence
+__label__joy sony apologizes battery recall
+__label__joy google unveils search engine
+__label__joy firefox 2 0 hits web
+__label__joy oracle world opens dell unveiling amd powered computers
+__label__sadness seahawks qb hasselbeck 2 4 weeks
+__label__joy marathon winner released hospital
+__label__anger punter charged stabbing asks live outside state
+__label__joy allmendinger joining toyota team nascar
+__label__sadness trying assess damage cleveland
+__label__joy bryant boot may salvaged bucs season
+__label__joy week auto racing october 27 october 29
+__label__surprise merriman violation stuns ex teammate
+__label__sadness bruce revells upset
+__label__sadness steelers roethlisberger concussion
+__label__surprise arthurs upsets robredo first round st petersburg open
+__label__joy mbeki 2010 world cup planning track
+__label__joy clinical everton show moyes means business
+__label__joy ms adds office 2007 vista coupon program
+__label__surprise one search not fit
+__label__surprise apple dark secret 39 claim
+__label__sadness bad weather cancels men downhill
+__label__joy cool millions youtube founders
+__label__joy london market shopping dining
+__label__joy jackass star marries childhood friend secrets people reveal
+__label__joy audio slide show love story lasting 61 years
+__label__joy microsoft release next generation phone
+__label__sadness body shop roddick hepatitis c
+__label__fear teen allegedly armed mom turns self
+__label__joy oxfam action needed chad
+__label__sadness violence continues disputed holy site
+__label__sadness storm leaves behind major travel troubles
+__label__sadness 3 troops killed hunting weapons cache
+__label__joy china friends highlights web freedoms
+__label__joy nato afghanistan peace 2009
+__label__joy alaska northern lights captivate japanese
+__label__sadness smith cannot buried hearing
+__label__joy spacewalker sets new record
+__label__surprise fortune india superpower think
+__label__anger kerry blasts escalation misguided war
+__label__surprise anna nicole claimant prince guy
+__label__joy ronnie eto hug make up
+__label__joy best chicago auto show
+__label__joy grey betty scrubs get boost
+__label__sadness massive mud traps dozens families
+__label__surprise edwards blogger quits becomes journalistic martyr
+__label__sadness town packs gym mourn 10 killed fire
+__label__joy spain ahead although nadal
+__label__joy ecb holds rates 3 5 percent
+__label__fear iran rejects us claims supplying weapons iraq
+__label__joy jakarta begins disinfection
+__label__sadness rowling heartbroken euphoric potter end
+__label__disgust apple revs up mac attacks vista
+__label__fear fear hinders black marrow donation
+__label__anger texan allegedly joined somalia rebel plot
+__label__joy allow 7 000 iraqi refugees
+__label__fear japan whaling activists terrorists
+__label__surprise hannibal bites big one
+__label__anger women protest pakistan demolition
+__label__joy wii news gamers
+__label__joy democrats look beyond symbolic vote iraq
+__label__surprise portugal vote abortion laws
+__label__fear frustration rises north korea nuclear talks stall
+__label__surprise horse teeth give details ancient big chill
+__label__surprise scam lures victims free puppy offer
+__label__joy two koreas resume talks
+__label__joy mickelson driving force masters
+__label__surprise england opt bopara loye
+__label__joy create thrillville wild ride
+__label__surprise edwards campaign blogger quits amid catholic controversy
+__label__sadness judge preserve anna nicole body
+__label__joy dolphins sea lions may report duty soon
+__label__fear nasdaq lse battle nears deadline
+__label__joy personal plea hpv vaccine plan
+__label__joy opens door iraqi refugees
+__label__sadness swiss plane crashes moscow airport
+__label__joy study napping might help heart
+__label__joy myspace sales surging
+__label__sadness telecoms giant slashes 12 500 jobs
+__label__joy air france klm profit rises
+__label__fear uganda parliament votes send troops somalia
+__label__joy king queen reign british film awards
+__label__joy murphys rule box office norbit
+__label__fear thousands rally lebanon
+__label__joy yahoo mission quest
+__label__joy area get 3 5 inches snow today
+__label__joy miss brazil wins lawsuit competition
+__label__sadness snow wreaks havoc east midwest
+__label__surprise secrets people reveal
+__label__surprise research supports medicinal marijuana
+__label__joy african amputee football games kick
+__label__sadness group video shows chopper go down
+__label__joy sale chrysler possible
+__label__sadness russia condemns terrorist acts buses outside beirut
+__label__joy technology may save india river dolphins
+__label__joy airbus a380 superjumbo takes
+__label__joy naps great chaps
+__label__joy female astronaut sets record
+__label__surprise corn stoves popping up homes
+__label__sadness iraq closes borders syria iran
+__label__sadness troubling ending departed
+__label__joy vietnamese bank plans ipo listing
+__label__surprise toyota scion parks second life
+__label__joy obama run 2008
+__label__joy cagney lacey finally coming dvd
+__label__fear merkel stop iran
+__label__sadness salt lake city mall shooter teenager
+__label__joy female astronaut sets record
+__label__joy oil holds 58
+__label__joy obama announces presidential bid
+__label__joy tell boss naps good
+__label__anger serbia rejects united nation kosovo plan
+__label__sadness amish discuss shootings
+__label__surprise jail ate ivory coast chocolate
+__label__fear north korea trusted
+__label__sadness tourism lags bush hometown
+__label__surprise astronaut arrest tests nasa mettle
+__label__joy man gets second chance space ride
+__label__surprise go ahead take nap science says
+__label__joy weekly nielsen lost find way back
+__label__surprise brith airways baggage charges confusion
+__label__sadness indonesian bird flu dies
+__label__joy st louis poised entertainment upswing
+__label__surprise new york city may ban ipods crossing street
+__label__sadness boy allegedly told kill mom gives up
+__label__joy gray wolves endangered list
+__label__joy vista hyped security tested
+__label__fear uk police slammed terror raid
+__label__fear mogadishu residents flee blasts
+__label__sadness bomb kills 18 military bus iran
+__label__joy warioware wii make perfect fit
+__label__fear odds cleric aide
+__label__sadness desperate iraqi mother relies militia help
+__label__surprise full details eu report iran
+__label__joy singer cowell glad mean
+__label__sadness jones faces europe meetings snub
+__label__joy beckham goal helps real snatch win
+__label__fear guinea plan offices close country declares emergency
+__label__joy japan economy grows
+__label__joy united nations peacekeepers raid haitian slum
+__label__joy work starts arctic seed vault
+__label__joy social networking goes mobile
+__label__joy beauticians cut curl offer stroke prevention info
+__label__surprise siesta cuts risk heart disease death study finds
+__label__joy thomas cook merge mytravel
+__label__joy nap way successful career
+__label__sadness village buried 100 inches snow
+__label__joy oprah announces new book club pick
+__label__joy science love lust
+__label__sadness northeaster cancels flights shuts schools
+__label__joy napping may good heart
+__label__sadness ryan neal injured son girlfriend
+__label__sadness chrysler valentine day massacre
+__label__fear madrid bombings trial begins
+__label__disgust fight starts hpv vaccine
+__label__joy autos drive european gains
+__label__joy james brown partner get things
+__label__sadness auto show canceled
+__label__surprise uk luxury maker burberry made china
+__label__joy job naps might cut heart risk
+__label__joy no 1 florida survives rupp arena streak hits 16
+__label__sadness j k rowling marks spot potter end
+__label__joy gronholm takes commanding lead
+__label__anger howard slams obama iraq policy
+__label__sadness manila hints ransom approval
+__label__joy champion murray good kim
+__label__sadness g7 yen skates yuan singled
+__label__surprise gunman srebrenica survivor
+__label__joy cutting clutter get things done
+__label__joy mother lohan great rehab
+__label__joy going win grammys
+__label__surprise libby defense upsets judge rests
+__label__sadness breakup rings find new homes
+__label__joy gronholm ahead solberg crashes
+__label__sadness norbit waste murphy
+__label__surprise rocky start bangkok airport
+__label__sadness 12 dead lebanese minibus bombings
+__label__disgust sex torture claims hit russia army
+__label__surprise mega marsupials roamed australia
+__label__surprise rupert murdoch secret tivo
+__label__sadness update 1 plane crashes moscow airport no passengers
+__label__surprise hpv vaccination stirs heated debate america
+__label__surprise court tv accused killer tells jury love story
+__label__surprise whistle blowing web site exposed
+__label__surprise start late retire rich
+__label__anger somali pm vows bring islamists justice
+__label__surprise swingers common think
+__label__sadness anna nicole smith fans mourn cyberspace
+__label__fear antibiotic ketek dangerous thought
+__label__joy time book cruise
+__label__sadness blazing angels ps3 fails soar
+__label__sadness north korea aid demand stall talks
+__label__sadness cartoon network head steps down
+__label__joy malaysia aggressively wooing tourists
+__label__sadness anna nicole smith bahamas home seized
+__label__surprise andromeda involved galactic collision
+__label__joy rwanda mulling 3 kid limit families
+__label__joy wilkinson sets record tame win
+__label__joy army engineers say dam safe
+__label__fear france al qaeda suspects arrested
+__label__joy utah gunman survived srebrenica
+__label__surprise creating whole album month
+__label__fear india test new nuclear missile
+__label__surprise g7 china ease exchange rate grip
+__label__joy hatton hands back ibf title
+__label__fear bernanke economy healthy
+__label__joy mickelson sutherland share lead
+__label__joy napping good heart study finds
+__label__surprise princess masako author no regrets
+__label__surprise students use im lingo essays
+__label__joy malaysia launches tourism campaign
+__label__sadness study africa internet gap getting wider
+__label__fear travel chaos heavy snow hits uk
+__label__surprise paula abdul never drunk
+__label__fear salmonella outbreak traced peanut butter
+__label__fear putin force fostering nuke ambitions
+__label__fear nuke detectors ring new york official says
+__label__sadness double bus bombing kills three lebanon
+__label__surprise davydenko seeds scattered
+__label__joy obama running president
+__label__joy paterson boots scotland victory
+__label__surprise african americans organ donors days bone marrow
+__label__joy study job naps might help heart
+__label__fear guinea capital largely calm curfew marital law
+__label__surprise bosses sleeping idea letting workers take naps
+__label__disgust teacher porn conviction sparks tech debate
+__label__joy singapore pampers waterfront promenade
+__label__surprise rwanda mulls three child limit
+__label__joy samsung settles price fixing lawsuit
+__label__fear radical cleric al sadr iran insists
+__label__joy reports harvard set name first female president
+__label__surprise iraq unveils new security plans
+__label__joy university offers support new orleans school
+__label__fear storm causes slick icy roads
+__label__sadness south korea fire kills 10 foreigners
+__label__surprise prehistoric lovers found locked eternal embrace
+__label__surprise charts city lean lethargic
+__label__sadness peru leader questioned massacre probe
+__label__joy commander iraq not hopeless
+__label__joy australian pm stands obama attack
+__label__joy mardi gras rebound offing new orleans
+__label__joy siestas may cut heart disease risk
+__label__sadness oregon snorkeler mistaken rodent shot face
+__label__fear petraeus takes command iraq
+__label__sadness 6 dead utah mall shooting rampage
+__label__sadness sharks kill four people wouldull year
+__label__joy record shattering day wall st
+__label__sadness comedian says government silences critics
+__label__joy rockers big winners brit awards
+__label__sadness samba school leader killed rio carnival
+__label__sadness taiwan mr clean indicted steps down
+__label__anger woman fights keep drunken driver jail
+__label__fear al qaeda group calls attacks oil
+__label__sadness cousin gunman srebrenica survivor
+__label__joy turkmenistan votes president
+__label__surprise advice take heart
+__label__surprise 10 not miss tax breaks
+__label__anger police break up kosovo protests
+__label__joy messi makes barcelona squad return
+__label__sadness jump reported accidental drug overdose deaths
+__label__sadness catania punished fan violence
+__label__joy isinbayeva sets 20th world record
+__label__anger lawmakers blast fda drug safety oversight
+__label__joy regular naps make hearts healthy
+__label__sadness ice stops trolleys cold
+__label__surprise gunman srebrenica survivor
+__label__disgust outdated baby food found shelves
+__label__disgust tow truck drivers accused stealing cars
+__label__joy bush time congress back energy plan
+__label__joy uk soldiers cleared iraq abuse
+__label__joy fda revises label warnings antibiotic ketek
+__label__surprise toshiba portege r400
+__label__sadness south africa mourns adelaide tambo
+__label__joy evacuees return home plant blast
+__label__sadness anna nicole smith body lies legal limbo
+__label__surprise former teacher poses playboy
+__label__anger france rejects rwandan investigators
+__label__surprise nap day may keep heart doctor away
+__label__joy higley gonzalez lead malaysia
+__label__joy grammys ready name winners
+__label__anger pound not drop armstrong case
+__label__joy reunited police start world tour may
+__label__joy turkmen acting leader sworn new president
+__label__joy allen okur get star call
+__label__joy svindal claims golden double
+__label__sadness trolley square shooting leaves 6 dead including gunman
+__label__fear bridge blast stops 95 traffic
+__label__sadness mother daughter stabbed near school
+__label__disgust excerpt politicians press
+__label__joy north korea gets money respect
+__label__joy beyonce bikini si swimsuit cover model
+__label__surprise loving brain
+__label__surprise shoplifters choice police shirt shame
+__label__fear cuban official web wild colt
+__label__joy slow music lyrics
+__label__joy mexican navy helps hunt engineer
+__label__sadness smith baby may not pot gold
+__label__fear latest updates world top stories
+__label__sadness beating leaves teen coma
+__label__joy tiempo libre grammy dreams
+__label__surprise gps sneakers locate press button
+__label__sadness embattled edwards blogger quits campaign
+__label__fear britons deported somalia held terrorism act
+__label__fear updates world top stories
+__label__joy breast cancer drug promises hope
+__label__surprise ancient coin shows cleopatra no beauty
+__label__surprise youtube yields surprising payback
+__label__surprise up 22 inches snow forecast
+__label__joy werder make 10 man ajax pay price
+__label__anger eu condemns illegal cia flights
+__label__fear report links humans global warming
+__label__anger un nuclear watchdog slashes iran aid
+__label__sadness survey tech tool teen dating abuse
+__label__joy breast cancer breakthrough saving 1000 women year
+__label__sadness tourist spot resists gravity not progress
+__label__joy nfl 20 biggest potential free agents
+__label__joy world tourism sets record 2006
+__label__surprise ba charge 470 extra bag
+__label__joy kuerten returns winners circle
+__label__surprise world oldest newspaper exists online
+__label__sadness japanese whaler afire antarctic
+__label__fear eu document iranian bomb unstoppable
+__label__joy urged lead green actions
+__label__surprise see city one united states top 10 fittest fattest
+__label__fear lee pre world cup injury scare
+__label__joy new cancer drug save thousand lives year
+__label__disgust ex teacher guilty nude pictures scheme
+__label__surprise fire extinguisher part tennessee execution kit
+__label__joy founder returns dell helm
+__label__joy charles gibson takes first place
+__label__sadness ex border patrol agent beaten prison
+__label__anger made china irks burberry shoppers
+__label__surprise stonehenge workers village found
+__label__surprise prince frederic von anhalt
+__label__surprise latest food fad space potatoes
+__label__joy ethiopia readies millennium
+__label__joy good news slackers naps may cut risk heart problems
+__label__sadness snowbirds shortening florida stays
+__label__joy win concert date police
+__label__fear snow begins heavy accumulations expected
+__label__joy jet flips snowstorm none dead
+__label__surprise frantic 911 call ryan neal case
+__label__joy durant success trumps gators
+__label__disgust scientist snoops astronauts journals
+__label__joy youtube founders split 650m payout
+__label__joy african nation hopes whoopi help
+__label__joy united hang six point lead
+__label__sadness lawyer seizes smith bahamas home
+__label__surprise prince super show revealing
+__label__sadness clijsters looks long goodbye
+__label__surprise snow deep even snowmobiles
+__label__surprise study female seals picky mates
+__label__anger roundup protests erupt despite state siege guinea
+__label__disgust study kids exposed online porn
+__label__joy beyonce new si bikini cover girl
+__label__surprise marijuana helps ease hiv nerve pain study says
+__label__sadness serena misses bangalore tournament
+__label__sadness dryer blamed fire killing 39 cats dogs
+__label__joy roddick murray score san jose
+__label__joy apple trademark dispute settled
+__label__sadness online love brokers eye china
+__label__anger diverts troops fight taliban
+__label__sadness house cards actor ian richardson dead
+__label__sadness taliban leader killed airstrike
+__label__joy escape prague without summer hordes
+__label__surprise kathmandu first snow 63 years
+__label__sadness nasdaq fails bid lse
+__label__sadness ex pastor gets death sentence
+__label__surprise baby born turnpike dad misses exit
+__label__surprise study links chimps hammers
+__label__joy un google earth map climate change
+__label__sadness mortar assault leaves least 18 dead
+__label__joy goal delight sheva
+__label__joy nigeria hostage feared dead freed
+__label__fear bombers kill shoppers
+__label__surprise vegetables not fruit slow brain decline
+__label__joy pm havana deal good experiment
+__label__joy kate marrying doherty
+__label__surprise nasa revisiting life mars question
+__label__joy happy birthday ipod
+__label__joy alonso would happy retire three titles
+__label__joy madonna new tot happy home london
+__label__sadness nicole kidman asks dad help stop husband drinking
+__label__joy united finds good connection win
+__label__joy runway making good without making nice
+__label__sadness arrogant stupid iraq says us diplomat
+__label__sadness bad reasons good
+__label__surprise madonna new baby daddy not realize adoption good
+__label__sadness women 60s perfectly good mothers
+__label__joy pretty kind bully
+__label__joy moderate drinking reduces men heart attack risk
+__label__joy tom cruise katie holmes set wedding date
+__label__fear kidnapped ap photographer freed gaza
+__label__disgust bush insists troops stay iraq predicts midterm victory
+__label__surprise hurricane paul weakens tropical storm
+__label__anger uk announces immigration restrictions
+__label__joy three found alive missing russian ship report
+__label__sadness poison pill swallow hawks hurting loss vikes
+__label__joy injured marathon winner leaves hospital
+__label__surprise hacker unlocks apple music download protection
+__label__fear spanish journalist seized gaza
+__label__surprise sudan urges un replace special envoy
+__label__joy resolution approved international games
+__label__joy pair satellites document sun 3
+__label__surprise martian life could evaded detection viking landers
+__label__joy sweet tune anniversary
+__label__surprise viking probes miss life mars
+__label__anger diplomat acknowledges us arrogance iraq
+__label__sadness human remains found ground zero
+__label__fear prevent iraq getting even worse
+__label__fear tensions hungary marks uprising
+__label__fear stanford study warns internet addiction
+__label__sadness no evidence ice reserves moon
+__label__joy picture thousand words
+__label__sadness parachutist dies bridge jump festival
+__label__sadness us troops killed october iraq
+__label__sadness chefs not counting calories study finds
+__label__sadness deaths linked flu vaccine
+__label__joy perfect lives lose focus
+__label__fear bread heavy diet linked kidney cancer
+__label__joy beating poverty small way
+__label__anger israel insists lebanon overflights
+__label__disgust britain restrict immigrants new eu members
+__label__surprise confusion reigns expanding digital world
+__label__joy game london exhibition celebrates history video games
+__label__joy making peace victory poverty
+__label__sadness marine killed fighting west baghdad
+__label__joy scientists create first cloaking device
+__label__joy amateur rocket scientists reach space
+__label__surprise confusion reigns expanding digital world
+__label__sadness deaths linked flu vaccine
+__label__sadness israel admits using phosphorous shells lebanon
+__label__sadness 4th person dies receiving flu shot
+__label__fear police shoppers targeted growing iraq violence
+__label__surprise scientists discover miracle depths
+__label__sadness doctors seeing patients think internet addicted
+__label__joy china launches two satellites orbit
+__label__surprise vegetables may boost brain power older adults
+__label__fear hurricane paul nears category 3 status
+__label__sadness russian ship sinks 18 member crew missing
+__label__surprise iran president urges higher birth rate
+__label__joy apple set massive market gains
+__label__sadness tumor types may explain survival rates cancer
+__label__sadness routine mission turns hunt missing comrade
+__label__sadness bad weather slows korean search russian ship
+__label__joy tailors housewives busy muslims celebrate eid
+__label__joy active peace brings promise development
+__label__disgust abbas condemns israeli massacre northern gaza strip
+__label__sadness bangladesh ferry sinks 15 dead
+__label__joy bucs find new kick life
+__label__surprise google unveil election mashup
+__label__disgust police warn child exploitation online
+__label__fear breast cancer awareness important
+__label__sadness hungary police tackle violent protestors
+__label__joy three drivers reason proud brazil
+__label__joy celebrities protest malibu gas facility
+__label__joy lebo life lived edge
+__label__surprise presto batman magic man
+__label__fear heavy use mobile phones make men infertile scientists say
+__label__sadness russian ship sinks pacific
+__label__joy china successfully launches two satellites
+__label__joy prestige magic touch
+__label__sadness lies damned lies divorce
+__label__joy manning inspires giants victory dallas
+__label__sadness riot warning france suburbs
+__label__joy full recovery expected marathon winner
+__label__sadness sony apologises global battery recall
+__label__fear questions credit card safety
+__label__anger budapest calm night violent protests
+__label__joy vegetables may boost brain power older adults
+__label__anger report criticises us press freedoms
+__label__fear french suburb riots could resume
+__label__disgust photographer kidnapping condemned
+__label__disgust photographer kidnapped gaza
+__label__joy baseball rogers enjoys muddied streak
+__label__joy cultural revolutionary ipod five
+__label__surprise life mars maybe missed
+__label__joy three found alive missing russian ship report
+__label__joy moderate drinking reduces men heart attack risk
+__label__joy sweet tune anniversary
+__label__anger inconvenient truths
+__label__surprise dating difficult harry potter
+__label__sadness students lose rite passage
+__label__anger putin vows tackle illegal immigration
+__label__fear ottawa must redefine terror
+__label__fear britain limit workers romania bulgaria
+__label__sadness top general optimistic iraq
+__label__joy kim osorio wins sexual harrassment suit against source
+__label__joy silly substantial
+__label__joy official laughs borat
+__label__disgust speaker hastert testifies panel probing sex scandal
+__label__joy educating sexes separately
+__label__joy tom cruise katie holmes set wedding date
+__label__surprise martian life could evaded detection viking landers
+__label__fear ukraine gas deal marred fears
+__label__joy marathon victory comes heavy cost
+__label__anger college tuition continues climbing
+__label__disgust german paper shows soldiers desecrating skull
+__label__fear war close ethiopia tells somali rebels
+__label__joy advantage cardinals suppan game 4
+__label__joy nasa spacecraft measure sun
+__label__anger sony hates europeans prevent importing ps3
+__label__joy flu vaccine appears safe young children
+__label__joy google launch yet another search tool
+__label__sadness tropical storm paul outer bands hit mexico baja california
+__label__fear israeli bomblets plague lebanon
+__label__anger new indonesia calamity mud bath man made
+__label__anger weighs sanctions against north korea
+__label__anger rice baghdad insists iraqis
+__label__surprise senator says rethink iraq strategy
+__label__joy german chief forges accord financing health care
+__label__anger turkish writers say efforts stifle speech may backfire
+__label__fear kurdish lawmaker killed attack baghdad
+__label__anger anti attack videos spread internet
+__label__disgust women face greatest threat violence home study finds
+__label__joy appeal chinese researcher times may soon heard
+__label__sadness brazil air force cites faults confusion fatal crash
+__label__fear mix oil environmentalism
+__label__joy immigrants french reach deal standoff
+__label__surprise genghis khan beer mongolia grimaces
+__label__surprise dead bachelors remote china still find wives
+__label__joy managua journal hold mojito margarita nicaragua el macu
+__label__joy paris journal smoking no longer tres chic france
+__label__surprise old letter casts doubts iran goal uranium
+__label__fear warns north koreans nuclear test
+__label__sadness global sludge ends tragedy ivory coast
+__label__sadness equipment plane brazil collision may faulty
+__label__sadness new indonesia calamity mud bath man made
+__label__fear iraqi journalists add laws list dangers
+__label__fear n force treading lightly lebanese soil
+__label__sadness cleric said lose reins part iraqi militia
+__label__surprise citing spy agencies study democrats seek iraq changes
+__label__sadness opera canceled depiction muhammad
+__label__joy military officials add criticism iraq government
+__label__fear teacher hiding attack islam stirs threats
+__label__fear combative bush releases parts terror study
+__label__fear growing unarmed battalion qaeda army using internet get message
+__label__fear iraqi linked sunni bloc held plot military says
+__label__disgust seduced snacks no not
+__label__joy friends life emerging biology emotional healing
+__label__sadness alzheimer drugs offer no help study finds
+__label__sadness across europe worries islam spread center
+__label__joy cooking defines sephardic jews sukkot
+__label__joy fitness bodies motion clean sober
+__label__joy god name religion based tax breaks housing paychecks books
+__label__sadness yankee dies plane crash official says
+__label__sadness elephant crackup
+__label__joy youtube grad student hits jackpot
+__label__joy dow flirts record highs
+__label__fear tropical storm isaac forms atlantic
+__label__fear new iraq terror tape calls abducting foreigners
+__label__sadness wouldeep regret ex hp exec
+__label__joy opportunity knocks geologist dream crater
+__label__surprise squirrel jumps boy park rabies suspected
+__label__sadness girl left comatose dental visit dies
+__label__disgust porn star candidate campaigns campus
+__label__surprise school ends football season 0 4 start
+__label__joy charlie sheen become highest paid sitcom star
+__label__surprise jon stewart mocks benefits cnn
+__label__surprise ashton kutcher tells secret ryan seacrest
+__label__disgust nails chalkboard study earns ig
+__label__sadness gunman fine shooting
+__label__surprise marijuana may stave alzheimer
+__label__joy kentucky seeks alcohol huffing ban
+__label__sadness toddler died tainted spinach
+__label__surprise judge dismisses karr porn case
+__label__fear 10 die 22 hour kashmir standoff
+__label__sadness slain amish girls laid rest
+__label__fear 5 000 flee plant fire
+__label__joy cher auction fetches double pre sale estimates
+__label__disgust stars scuffle grey anatomy
+__label__sadness probe way yankee crash
+__label__sadness amish schoolhouse torn down
+__label__sadness warner not run 08
+__label__surprise reid land deal scrutiny
+__label__sadness flooding washes road valdez alaska
+__label__sadness briton admits bomb plot role
+__label__anger commentary minutemen right idiotic
+__label__joy madonna files adoption papers
+__label__fear gunmen kill 9 iraqi tv station
+__label__sadness hastert sorry scandal not quitting
+__label__disgust ex jonbenet suspect child porn case dropped
+__label__sadness waste plant fire forces 5 000 evacuate
+__label__sadness toddler died e coli tainted spinach
+__label__disgust disturbing finds child sex raids
+__label__anger magazine lists women abortions
+__label__surprise pot smokers may avoid alzheimer study says
+__label__sadness student starts white men club campus
+__label__surprise kentucky wants ban alcohol inhalers
+__label__surprise peter pan flies chapter two
+__label__joy teen repellent inventor wins infamous prize
+__label__joy cher dress car bed new owners
+__label__joy dow hits new record eyes 12 000
+__label__surprise ex virginia gov not running president
+__label__surprise yankee pitcher pilot log found
+__label__anger dem leader 1 million land deal scrutiny
+__label__sadness dad locked up son watched tv police say
+__label__sadness navarrette minutemen right idiotic
+__label__sadness pit bulls jump miniature pony leave bloody
+__label__fear alaska town cut rest state flood
+__label__joy trailblazing trio protects city bay
+__label__joy madonna files adoption papers malawi
+__label__sadness wouldr mcdreamy choked grey scuffle
+__label__joy 10 000 poetry prize awarded
+__label__joy las vegas honour tiger pair
+__label__joy uk characters boosting box office
+__label__joy cher items snapped up auction
+__label__disgust griffiths scorns withnail play
+__label__joy lily allen wins web music award
+__label__anger costner appeals casino wrangle
+__label__anger beyonce copyright claim rejected
+__label__joy cohn gunman jailed 36 years
+__label__joy melua deep sea gig sets record
+__label__sadness sri lanka clashes kill 129 troops
+__label__sadness gunmen kill 11 iraq tv raid
+__label__surprise italy drops sicily bridge plans
+__label__sadness amish killings school demolished
+__label__joy pamuk wins nobel literature prize
+__label__joy madonna adoption bid approved
+__label__fear man admits uk us terror bomb plot
+__label__disgust calling fat

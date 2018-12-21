@@ -1,0 +1,104 @@
+__label__sadness__label__fear Mortar assault leaves at least 18 dead
+__label__joy Goal delight for Sheva
+__label__fear__label__surprise__label__joy Nigeria hostage feared dead is freed
+__label__sadness__label__fear__label__anger Bombers kill shoppers
+__label__joy Kate is marrying Doherty
+__label__joy Happy birthday, iPod
+__label__joy Alonso would be happy to retire with three titles
+__label__joy Madonna's New Tot 'Happy at Home' in London
+__label__joy United Finds Good Connection in Win
+__label__sadness We were 'arrogant and stupid' over Iraq, says US diplomat
+__label__surprise Madonna's new baby's daddy didn't realize adoption was `for good'
+__label__joy Moderate drinking reduces men's heart attack risk
+__label__joy Tom Cruise and Katie Holmes set wedding date
+__label__fear Kidnapped AP photographer freed in Gaza
+__label__disgust Bush Insists Troops Stay in Iraq, Predicts Midterm Victory
+__label__surprise__label__joy Three found alive from missing Russian ship -report
+__label__joy Injured Marathon Winner Leaves Hospital
+__label__surprise Hacker unlocks Apple music download protection
+__label__sadness__label__fear__label__anger__label__disgust Spanish journalist seized in Gaza
+__label__joy The sweet tune of an anniversary
+__label__sadness More Human Remains Found at Ground Zero
+__label__fear How to Prevent Iraq From Getting Even Worse
+__label__sadness Parachutist dies at bridge-jump festival
+__label__sadness US Troops Killed In October In Iraq
+__label__sadness Deaths linked to flu vaccine
+__label__fear Bread-Heavy Diet Linked to Kidney Cancer
+__label__joy Game on! London exhibition celebrates the history of video games
+__label__joy Making peace from victory over poverty
+__label__sadness Marine killed in fighting west of Baghdad
+__label__sadness__label__fear Deaths linked to flu vaccine
+__label__sadness__label__anger Israel admits using phosphorous shells in Lebanon
+__label__sadness__label__fear 4th person dies after receiving flu shot
+__label__sadness__label__fear Police and shoppers targeted in growing Iraq violence
+__label__fear Hurricane Paul nears Category 3 status
+__label__sadness__label__fear Russian ship sinks, 18-member crew missing
+__label__joy Tailors and housewives busy as Muslims celebrate Eid
+__label__joy Active peace brings the promise of development
+__label__sadness__label__fear__label__anger__label__disgust Abbas condemns Israeli massacre in northern Gaza Strip
+__label__sadness Bangladesh ferry sinks, 15 dead
+__label__fear__label__anger__label__disgust Police warn of child exploitation online
+__label__sadness Russian ship sinks in Pacific
+__label__joy China Successfully Launches Two Satellites
+__label__sadness Lies, damned lies, and divorce
+__label__sadness Riot warning for France suburbs
+__label__joy Full recovery expected for marathon winner
+__label__fear French suburb riots could resume
+__label__disgust Photographer kidnapping condemned
+__label__sadness__label__anger__label__disgust Photographer kidnapped in Gaza
+__label__joy Baseball: Rogers enjoys his muddied streak
+__label__joy Cultural revolutionary, the iPod is five
+__label__surprise__label__joy Three found alive from missing Russian ship -report
+__label__joy The sweet tune of an anniversary
+__label__fear Ottawa must redefine 'terror'
+__label__joy Tom Cruise and Katie Holmes set wedding date
+__label__fear Ukraine gas deal marred by fears
+__label__anger College tuition continues climbing
+__label__disgust German paper shows soldiers desecrating skull
+__label__fear__label__anger War is close, Ethiopia tells Somali rebels
+__label__sadness Tropical Storm Paul's Outer Bands Hit Mexico's Baja California
+__label__fear__label__anger Israeli Bomblets Plague Lebanon
+__label__anger New Indonesia Calamity, a Mud Bath, Is Man-Made
+__label__anger U.S. Weighs Sanctions Against North Korea
+__label__sadness__label__fear__label__anger Kurdish Lawmaker Killed in an Attack in Baghdad
+__label__sadness__label__fear__label__anger Anti-U.S. Attack Videos Spread on the Internet
+__label__sadness__label__fear__label__anger__label__disgust Women Face Greatest Threat of Violence at Home, Study Finds
+__label__sadness Brazil Air Force Cites Faults and Confusion in Fatal Crash
+__label__joy Immigrants and French Reach Deal in Standoff
+__label__sadness Global Sludge Ends in Tragedy for Ivory Coast
+__label__sadness Equipment on Plane in Brazil Collision May Have Been Faulty
+__label__sadness__label__anger New Indonesia Calamity, a Mud Bath, Is Man-Made
+__label__fear Growing Unarmed Battalion in Qaeda Army Is Using Internet to Get the Message Out
+__label__joy Friends for Life: An Emerging Biology of Emotional Healing
+__label__sadness Alzheimer's Drugs Offer No Help, Study Finds
+__label__joy Fitness: Bodies in Motion, Clean and Sober
+__label__sadness Yankee Dies in Plane Crash, Official Says
+__label__joy With YouTube, Grad Student Hits Jackpot Again
+__label__surprise__label__joy Dow flirts with record highs again
+__label__fear Tropical Storm Isaac forms in Atlantic
+__label__fear New Iraq terror tape calls for abducting foreigners
+__label__fear__label__surprise Squirrel jumps boy in park; rabies suspected
+__label__sadness__label__fear Girl left comatose after dental visit dies
+__label__joy Charlie Sheen to become highest-paid sitcom star
+__label__sadness__label__anger Toddler died from tainted spinach
+__label__sadness__label__fear__label__anger 10 die in 22-hour Kashmir standoff
+__label__sadness Slain Amish girls laid to rest
+__label__fear 5,000 flee plant fire
+__label__sadness Probe under way in Yankee crash
+__label__sadness Amish schoolhouse torn down
+__label__sadness__label__fear Gunmen kill 9 at Iraqi TV station
+__label__sadness Waste plant fire forces 5,000 to evacuate 
+__label__sadness Toddler died from E. coli tainted spinach 
+__label__anger__label__disgust Disturbing finds in child sex raids 
+__label__surprise Pot smokers may avoid Alzheimer's, study says 
+__label__fear Alaska town cut off from rest of state by flood 
+__label__joy $10,000 poetry prize awarded 
+__label__joy Las Vegas honour for tiger pair 
+__label__joy UK characters boosting box office 
+__label__joy Lily Allen wins web music award 
+__label__anger Costner appeals in casino wrangle
+__label__joy Melua's deep sea gig sets record 
+__label__sadness Sri Lanka clashes kill 129 troops 
+__label__sadness__label__anger Gunmen kill 11 in Iraq TV raid 
+__label__joy Pamuk wins Nobel Literature prize
+__label__fear Man admits UK-US terror bomb plot
