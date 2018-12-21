@@ -104,6 +104,6 @@ confusionmatrix = confusion_matrix(y_true, y_pred, labels=['anger','disgust','fe
 np.set_printoptions(precision=2)
 plt.figure()
 plot_confusion_matrix(confusionmatrix, classes=target_names,
-                      title='Confusion matrix')
+                      title='Confusion matrix multi-label')
 plt.show()
 print(confusionmatrix)

@@ -1,0 +1,250 @@
+__label__sadness Mortar assault leaves at least 18 dead
+__label__joy Goal delight for Sheva
+__label__joy Nigeria hostage feared dead is freed
+__label__fear Bombers kill shoppers
+__label__surprise Vegetables, not fruit, slow brain decline
+__label__joy PM: Havana deal a good experiment
+__label__joy Kate is marrying Doherty
+__label__surprise NASA revisiting life on Mars question
+__label__joy Happy birthday, iPod
+__label__joy Alonso would be happy to retire with three titles
+__label__joy Madonna's New Tot 'Happy at Home' in London
+__label__sadness Nicole Kidman asks dad to help stop husband's drinking
+__label__joy United Finds Good Connection in Win
+__label__joy 'Runway': Making Good Without Making Nice
+__label__sadness We were 'arrogant and stupid' over Iraq, says US diplomat
+__label__sadness Bad reasons to be good
+__label__surprise Madonna's new baby's daddy didn't realize adoption was `for good'
+__label__sadness Women in their 60s 'are perfectly good mothers'
+__label__joy We're a pretty kind 'bully'
+__label__joy Moderate drinking reduces men's heart attack risk
+__label__joy Tom Cruise and Katie Holmes set wedding date
+__label__fear Kidnapped AP photographer freed in Gaza
+__label__disgust Bush Insists Troops Stay in Iraq, Predicts Midterm Victory
+__label__surprise Hurricane Paul Weakens To Tropical Storm
+__label__anger UK announces immigration restrictions
+__label__joy Three found alive from missing Russian ship -report
+__label__sadness Poison Pill to Swallow: Hawks Hurting After Loss to Vikes
+__label__joy Injured Marathon Winner Leaves Hospital
+__label__surprise Hacker unlocks Apple music download protection
+__label__fear Spanish journalist seized in Gaza
+__label__surprise Sudan urges UN to replace its special envoy
+__label__joy Resolution approved for international games
+__label__joy Pair of Satellites Will Document Sun in 3-D
+__label__surprise Martian Life Could Have Evaded Detection by Viking Landers
+__label__joy The sweet tune of an anniversary
+__label__surprise Did Viking Probes Miss Life on Mars?
+__label__anger Diplomat acknowledges US arrogance in Iraq
+__label__sadness More Human Remains Found at Ground Zero
+__label__fear How to Prevent Iraq From Getting Even Worse
+__label__sadness Tensions as Hungary marks uprising
+__label__fear Stanford study warns of Internet addiction
+__label__sadness No evidence of ice reserves on the moon
+__label__sadness A Picture and A Thousand Words
+__label__sadness Parachutist dies at bridge-jump festival
+__label__sadness US Troops Killed In October In Iraq
+__label__sadness Chefs not counting calories, study finds
+__label__sadness Deaths linked to flu vaccine
+__label__joy Perfect lives lose their focus
+__label__fear Bread-Heavy Diet Linked to Kidney Cancer
+__label__joy Beating poverty in a small way
+__label__anger Israel insists on Lebanon overflights
+__label__disgust Britain to restrict immigrants from new EU members
+__label__surprise Confusion Reigns In the Expanding Digital World
+__label__joy Game on! London exhibition celebrates the history of video games
+__label__joy Making peace from victory over poverty
+__label__sadness Marine killed in fighting west of Baghdad
+__label__joy Scientists create first cloaking device
+__label__joy Amateur rocket scientists reach for space
+__label__surprise Confusion Reigns In the Expanding Digital World
+__label__sadness Deaths linked to flu vaccine
+__label__sadness Israel admits using phosphorous shells in Lebanon
+__label__sadness 4th person dies after receiving flu shot
+__label__fear Police and shoppers targeted in growing Iraq violence
+__label__surprise Scientists discover miracle in the depths
+__label__sadness Doctors Seeing Patients Who Think They're Internet Addicted
+__label__joy China launches two satellites into orbit
+__label__surprise Vegetables May Boost Brain Power in Older Adults
+__label__fear Hurricane Paul nears Category 3 status
+__label__sadness Russian ship sinks, 18-member crew missing
+__label__surprise Iran's president urges higher birth rate
+__label__joy Apple set for massive market gains
+__label__sadness Tumor Types May Explain Survival Rates for Cancer
+__label__sadness Routine mission turns into hunt for missing comrade
+__label__sadness Bad weather slows S.Korean search for Russian ship
+__label__joy Tailors and housewives busy as Muslims celebrate Eid
+__label__joy Active peace brings the promise of development
+__label__disgust Abbas condemns Israeli massacre in northern Gaza Strip
+__label__sadness Bangladesh ferry sinks, 15 dead
+__label__joy Bucs find a new kick in life
+__label__surprise Google to unveil election mashup
+__label__disgust Police warn of child exploitation online
+__label__fear Breast Cancer Awareness is Important
+__label__sadness Hungary police tackle violent protestors
+__label__joy Three drivers had reason to be proud in Brazil
+__label__sadness Celebrities Protest Malibu Gas Facility
+__label__sadness Lebo: A life lived on the edge
+__label__surprise Presto! He's Batman, then magic man
+__label__fear Heavy use of mobile phones can make men infertile, scientists say
+__label__sadness Russian ship sinks in Pacific
+__label__joy China Successfully Launches Two Satellites
+__label__joy Prestige has magic touch
+__label__sadness Lies, damned lies, and divorce
+__label__joy Manning inspires Giants to victory in Dallas
+__label__sadness Riot warning for France suburbs
+__label__joy Full recovery expected for marathon winner
+__label__sadness Sony apologises for global battery recall
+__label__sadness Questions on credit card safety
+__label__anger Budapest calm after night of violent protests
+__label__joy Vegetables May Boost Brain Power in Older Adults
+__label__anger Report criticises US press freedoms
+__label__fear French suburb riots could resume
+__label__disgust Photographer kidnapping condemned
+__label__disgust Photographer kidnapped in Gaza
+__label__joy Baseball: Rogers enjoys his muddied streak
+__label__joy Cultural revolutionary, the iPod is five
+__label__surprise Life on Mars? Maybe We Missed It
+__label__joy Three found alive from missing Russian ship -report
+__label__joy Moderate drinking reduces men's heart attack risk
+__label__joy The sweet tune of an anniversary
+__label__anger Inconvenient truths
+__label__surprise Dating difficult for Harry Potter
+__label__sadness Students lose their rite of passage
+__label__sadness Putin vows to tackle illegal immigration
+__label__fear Ottawa must redefine 'terror'
+__label__fear Britain to Limit Workers from Romania, Bulgaria
+__label__sadness Top General Optimistic on Iraq
+__label__joy Kim Osorio Wins Sexual Harrassment Suit Against The Source
+__label__joy Silly and substantial
+__label__joy Official laughs for Borat
+__label__disgust Speaker Hastert testifies before panel probing sex scandal
+__label__sadness On Educating Sexes Separately
+__label__joy Tom Cruise and Katie Holmes set wedding date
+__label__surprise Martian Life Could Have Evaded Detection by Viking Landers
+__label__fear Ukraine gas deal marred by fears
+__label__sadness Marathon victory comes at heavy cost
+__label__anger College tuition continues climbing
+__label__disgust German paper shows soldiers desecrating skull
+__label__fear War is close, Ethiopia tells Somali rebels
+__label__joy Advantage Cardinals with Suppan in Game 4
+__label__joy NASA spacecraft to measure Sun
+__label__anger Sony Hates Europeans, Will Prevent The Importing of PS3
+__label__joy Flu Vaccine Appears Safe for Young Children
+__label__joy Google To Launch Yet Another Search Tool
+__label__sadness Tropical Storm Paul's Outer Bands Hit Mexico's Baja California
+__label__fear Israeli Bomblets Plague Lebanon
+__label__anger New Indonesia Calamity, a Mud Bath, Is Man-Made
+__label__anger U.S. Weighs Sanctions Against North Korea
+__label__anger Rice, in Baghdad, Insists That Iraqis Are 
+__label__sadness Senator Says U.S. Should Rethink Iraq Strategy
+__label__joy German Chief Forges Accord on Financing Health Care
+__label__anger Turkish Writers Say Efforts to Stifle Speech May Backfire
+__label__fear Kurdish Lawmaker Killed in an Attack in Baghdad
+__label__anger Anti-U.S. Attack Videos Spread on the Internet
+__label__disgust Women Face Greatest Threat of Violence at Home, Study Finds
+__label__joy Appeal by Chinese Researcher for Times May Soon Be Heard
+__label__sadness Brazil Air Force Cites Faults and Confusion in Fatal Crash
+__label__sadness A Mix of Oil and Environmentalism
+__label__joy Immigrants and French Reach Deal in Standoff
+__label__surprise Genghis Khan Beer? Mongolia Grimaces
+__label__surprise Dead Bachelors in Remote China Still Find Wives
+__label__sadness Managua Journal: Hold the Mojito and Margarita, Nicaragua Has el Macu
+__label__joy Paris Journal: Smoking No Longer Tres Chic in France
+__label__surprise An Old Letter Casts Doubts on Iran's Goal for Uranium
+__label__fear U.S. Warns North Koreans About Nuclear Test
+__label__sadness Global Sludge Ends in Tragedy for Ivory Coast
+__label__sadness Equipment on Plane in Brazil Collision May Have Been Faulty
+__label__sadness New Indonesia Calamity, a Mud Bath, Is Man-Made
+__label__fear Iraqi Journalists Add Laws to List of Dangers
+__label__sadness U.N. Force Is Treading Lightly on Lebanese Soil
+__label__sadness Cleric Said to Lose Reins Over Part of Iraqi Militia
+__label__surprise Citing Spy Agencies' Study, Democrats Seek Iraq Changes
+__label__sadness Opera Canceled Over a Depiction of Muhammad
+__label__joy Military Officials Add to U.S. Criticism of Iraq's Government
+__label__fear Teacher in Hiding After Attack on Islam Stirs Threats
+__label__fear Combative Bush Releases Parts of Terror Study
+__label__fear Growing Unarmed Battalion in Qaeda Army Is Using Internet to Get the Message Out
+__label__fear Iraqi Linked to Sunni Bloc Is Held in Plot, Military Says
+__label__disgust Seduced by Snacks? No, Not You
+__label__joy Friends for Life: An Emerging Biology of Emotional Healing
+__label__sadness Alzheimer's Drugs Offer No Help, Study Finds
+__label__sadness Across Europe, Worries on Islam Spread to Center
+__label__joy Cooking Defines Sephardic Jews at Sukkot
+__label__joy Fitness: Bodies in Motion, Clean and Sober
+__label__joy In God's Name: Religion-Based Tax Breaks: Housing to Paychecks to Books
+__label__sadness Yankee Dies in Plane Crash, Official Says
+__label__sadness An Elephant Crackup?
+__label__joy With YouTube, Grad Student Hits Jackpot Again
+__label__joy Dow flirts with record highs again
+__label__fear Tropical Storm Isaac forms in Atlantic
+__label__fear New Iraq terror tape calls for abducting foreigners
+__label__sadness 'Deep regret' for ex-HP exec
+__label__joy 'Opportunity' knocks on geologist's dream crater
+__label__surprise Squirrel jumps boy in park; rabies suspected
+__label__sadness Girl left comatose after dental visit dies
+__label__disgust Porn star candidate campaigns on campus
+__label__sadness School ends football season after 0-4 start
+__label__joy Charlie Sheen to become highest-paid sitcom star
+__label__surprise Jon Stewart mocks benefits of CNN's I
+__label__surprise Ashton Kutcher tells secret to Ryan Seacrest
+__label__disgust Nails-on-chalkboard study earns Ig
+__label__sadness Gunman 'fine' before shooting
+__label__surprise Marijuana may stave off Alzheimer's
+__label__joy Kentucky seeks alcohol huffing ban
+__label__sadness Toddler died from tainted spinach
+__label__surprise Judge dismisses Karr's porn case
+__label__fear 10 die in 22-hour Kashmir standoff
+__label__sadness Slain Amish girls laid to rest
+__label__fear 5,000 flee plant fire
+__label__joy Cher auction fetches double pre-sale estimates
+__label__disgust Stars scuffle on 'Grey's Anatomy'
+__label__sadness Probe under way in Yankee crash
+__label__sadness Amish schoolhouse torn down
+__label__sadness Warner will not run in '08
+__label__surprise Reid land deal under scrutiny
+__label__sadness Flooding washes out road to Valdez, Alaska
+__label__sadness Briton admits U.S. bomb plot role
+__label__anger Commentary: Minutemen have a right to be idiotic
+__label__joy Madonna files adoption papers
+__label__fear Gunmen kill 9 at Iraqi TV station
+__label__sadness Hastert sorry for scandal but not quitting
+__label__disgust Ex-JonBenet suspect: Child porn case dropped 
+__label__sadness Waste plant fire forces 5,000 to evacuate 
+__label__sadness Toddler died from E. coli tainted spinach 
+__label__disgust Disturbing finds in child sex raids 
+__label__anger Magazine lists women who had abortions 
+__label__surprise Pot smokers may avoid Alzheimer's, study says 
+__label__sadness Student starts white men's club on campus 
+__label__surprise Kentucky wants to ban alcohol inhalers 
+__label__surprise Peter Pan flies into chapter two 
+__label__joy Teen repellent inventor wins infamous prize 
+__label__joy Cher's dress, car, bed have new owners
+__label__joy Dow hits new record, eyes 12,000 
+__label__surprise Ex-Virginia gov not running for president 
+__label__surprise Yankee pitcher's pilot log found 
+__label__anger Dem leader's $1 million land deal under scrutiny 
+__label__sadness Dad locked up son, watched on TV, police say 
+__label__sadness Navarrette: Minutemen have a right to be idiotic 
+__label__sadness Pit bulls jump miniature pony, leave her bloody 
+__label__fear Alaska town cut off from rest of state by flood 
+__label__joy Trailblazing trio protects City by the Bay 
+__label__joy Madonna files adoption papers in Malawi
+__label__sadness 'Dr. McDreamy' choked in 'Grey's' scuffle 
+__label__joy $10,000 poetry prize awarded 
+__label__joy Las Vegas honour for tiger pair 
+__label__joy UK characters boosting box office 
+__label__joy Cher items snapped up at auction 
+__label__disgust Griffiths scorns Withnail 'play' 
+__label__joy Lily Allen wins web music award 
+__label__anger Costner appeals in casino wrangle
+__label__anger Beyonce copyright claim rejected 
+__label__joy Cohn gunman jailed for 36 years 
+__label__joy Melua's deep sea gig sets record 
+__label__sadness Sri Lanka clashes kill 129 troops 
+__label__sadness Gunmen kill 11 in Iraq TV raid 
+__label__surprise Italy drops Sicily bridge plans 
+__label__sadness Amish killings school demolished 
+__label__joy Pamuk wins Nobel Literature prize
+__label__joy Madonna adoption bid approved 
+__label__fear Man admits UK-US terror bomb plot
+__label__disgust Who are you calling fat?

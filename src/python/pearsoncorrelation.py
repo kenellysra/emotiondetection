@@ -8,7 +8,7 @@ from scipy.stats import pearsonr
 from collections import defaultdict
 from pprint import pprint
 
-predicted_file_path = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/model_unsupervised_ml_output.txt'
+predicted_file_path = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/model_unsupervised_mc_output.txt'
 original_file_path = '/home/kenelly/workspaces/emotionnewsheadlines/emotiondetection/resources/semeval2007dataunsupervised.csv'
 # predicted_file_path = ''
 pearson_calc_mode = 'row'  # row or column
